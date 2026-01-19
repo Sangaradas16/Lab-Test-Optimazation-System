@@ -1,0 +1,1001 @@
+symptoms,disease
+"hoarseness, depression, heavy or irregular menstrual periods, puffy face, thinning hair, slowed heart rate, muscle aches, pain, stiffness or swelling in your joints, muscle weakness, dry skin, fatigue, constipation, weight gain",Hypothyroidism
+"fatigue, headache, cold hands and feet, dizziness or lightheadedness, weakness, pale or yellowish skin, chest pain, shortness of breath",Anemia
+"weight gain, fatigue",Hypothyroidism
+"sweating, muscle pain, diarrhea",Malaria
+pale or yellowish skin,Anemia
+"numbness or tingling in the hands or feet, fatigue, unintended weight loss, increased thirst",Diabetes Type 2
+"irregular heartbeats, cold hands and feet, fatigue, weakness",Anemia
+"pain behind eyes, severe headache, skin rash, severe joint and muscle pain, vomiting, nausea",Dengue
+headache,Anemia
+"loss of appetite, rash, weakness, diarrhea or constipation, abdominal pain, sweating, dry cough, prolonged fever",Typhoid
+"diarrhea or constipation, weight loss, prolonged fever, loss of appetite, rash, headache",Typhoid
+"prolonged fever, weight loss",Typhoid
+"headache, measured high fever, weakness, body ache, chills, loss of appetite, fatigue",Viral Fever
+"chills, loss of appetite, weakness",Viral Fever
+"diarrhea or constipation, headache",Typhoid
+"heavy or irregular menstrual periods, tenderness and stiffness, puffy face, fatigue, pain, stiffness or swelling in your joints, constipation",Hypothyroidism
+"diarrhea, fever with shaking chills, abdominal pain, anemia, headache, vomiting",Malaria
+"mild headache, congestion, malaise, runny or stuffy nose, cough, low-grade fever",Common Cold
+"fever with shaking chills, vomiting",Malaria
+"loss of appetite, weight loss, abdominal pain, sweating, fatigue, prolonged fever, muscle ache, weakness, headache",Typhoid
+measured high fever,Viral Fever
+"slow-healing sores, frequent infections, fatigue, numbness or tingling in the hands or feet, areas of darkened skin",Diabetes Type 2
+"increased sensitivity to cold, impaired memory, hoarseness, constipation, depression, dry skin, thinning hair, pain, stiffness or swelling in your joints, slowed heart rate, tenderness and stiffness, heavy or irregular menstrual periods, muscle aches, puffy face, fatigue, elevated blood cholesterol",Hypothyroidism
+"nausea, sweating",Malaria
+"mild headache, sneezing, low-grade fever, sore throat, runny or stuffy nose, congestion, slight body aches, cough",Common Cold
+headache,Anemia
+"fatigue, cold hands and feet",Anemia
+"headache, vomiting, muscle pain, nausea",Malaria
+"malaise, sore throat, sneezing, runny or stuffy nose",Common Cold
+"slow-healing sores, numbness or tingling in the hands or feet, areas of darkened skin, increased hunger, frequent urination",Diabetes Type 2
+"muscle weakness, hoarseness",Hypothyroidism
+"mild headache, sore throat, malaise, low-grade fever, congestion, slight body aches",Common Cold
+"fatigue, muscle ache, abdominal pain, rash, weakness, sweating, loss of appetite, diarrhea or constipation, headache, prolonged fever",Typhoid
+"shortness of breath, dizziness or lightheadedness, headache, irregular heartbeats, pale or yellowish skin, cold hands and feet, fatigue, weakness, chest pain",Anemia
+"prolonged fever, muscle ache",Typhoid
+"frequent infections, slow-healing sores, increased thirst, numbness or tingling in the hands or feet",Diabetes Type 2
+"weight gain, thinning hair",Hypothyroidism
+weakness,Viral Fever
+"fatigue, severe joint and muscle pain, mild bleeding, nausea",Dengue
+"thinning hair, puffy face, depression, hoarseness, muscle weakness, impaired memory, elevated blood cholesterol, constipation, weight gain, slowed heart rate",Hypothyroidism
+"headache, weakness",Viral Fever
+"mild bleeding, pain behind eyes, severe joint and muscle pain, vomiting, severe headache, nausea",Dengue
+runny or stuffy nose,Common Cold
+"anemia, muscle pain, abdominal pain, vomiting",Malaria
+"weakness, sweating, loss of appetite, rash, weight loss, abdominal pain, muscle ache, diarrhea or constipation, headache, fatigue",Typhoid
+"weakness, fatigue",Viral Fever
+"pale or yellowish skin, shortness of breath, cold hands and feet",Anemia
+"weight loss, muscle ache, sweating, headache, abdominal pain, dry cough",Typhoid
+"frequent urination, slow-healing sores, unintended weight loss, areas of darkened skin",Diabetes Type 2
+"slow-healing sores, blurred vision, frequent infections, increased thirst, numbness or tingling in the hands or feet, increased hunger, unintended weight loss, areas of darkened skin",Diabetes Type 2
+"slight body aches, runny or stuffy nose, sneezing, congestion, malaise, low-grade fever, cough, sore throat, mild headache",Common Cold
+"increased thirst, unintended weight loss, numbness or tingling in the hands or feet, fatigue, frequent infections, frequent urination, slow-healing sores, increased hunger",Diabetes Type 2
+"fatigue, pale or yellowish skin, cold hands and feet, irregular heartbeats, weakness",Anemia
+"increased thirst, numbness or tingling in the hands or feet, fatigue, frequent urination, frequent infections",Diabetes Type 2
+"irregular heartbeats, shortness of breath",Anemia
+increased hunger,Diabetes Type 2
+"low-grade fever, sore throat, cough",Common Cold
+"increased sensitivity to cold, impaired memory, weight gain, thinning hair, fatigue, elevated blood cholesterol, muscle aches, puffy face, heavy or irregular menstrual periods, muscle weakness, depression",Hypothyroidism
+"fatigue, mild bleeding, sudden high fever, pain behind eyes, severe headache, skin rash, nausea, vomiting",Dengue
+"headache, weakness, chills",Viral Fever
+"mild bleeding, nausea, vomiting, skin rash, severe joint and muscle pain, severe headache, fatigue, sudden high fever",Dengue
+"rash, sweating, abdominal pain, loss of appetite, muscle ache, fatigue, dry cough, prolonged fever, weight loss, diarrhea or constipation, weakness, headache",Typhoid
+"sore throat, low-grade fever, runny or stuffy nose",Common Cold
+"depression, puffy face, hoarseness, muscle weakness, impaired memory, constipation, pain, stiffness or swelling in your joints, heavy or irregular menstrual periods, muscle aches, dry skin, fatigue, tenderness and stiffness, weight gain, slowed heart rate, elevated blood cholesterol",Hypothyroidism
+"mild headache, sneezing, sore throat, cough, runny or stuffy nose, slight body aches",Common Cold
+"congestion, slight body aches, runny or stuffy nose, low-grade fever, sneezing, malaise, cough, mild headache, sore throat",Common Cold
+"slight body aches, sore throat, runny or stuffy nose, low-grade fever, mild headache",Common Cold
+"fever with shaking chills, vomiting",Malaria
+"low-grade fever, slight body aches, sneezing, congestion, runny or stuffy nose, sore throat, cough, mild headache",Common Cold
+"fever with shaking chills, nausea, muscle pain, anemia",Malaria
+"chest pain, headache, fatigue, dizziness or lightheadedness, shortness of breath",Anemia
+"body ache, measured high fever, chills, weakness, loss of appetite, headache",Viral Fever
+"fatigue, weakness, shortness of breath, cold hands and feet, headache, pale or yellowish skin, irregular heartbeats",Anemia
+"fatigue, unintended weight loss, frequent infections, blurred vision, numbness or tingling in the hands or feet, areas of darkened skin, increased hunger, slow-healing sores, frequent urination",Diabetes Type 2
+malaise,Common Cold
+"dizziness or lightheadedness, pale or yellowish skin, shortness of breath, fatigue, chest pain, headache, weakness, cold hands and feet",Anemia
+"body ache, weakness",Viral Fever
+"muscle pain, vomiting, fever with shaking chills, sweating, anemia, abdominal pain",Malaria
+"blurred vision, increased thirst, slow-healing sores, fatigue, numbness or tingling in the hands or feet, unintended weight loss, increased hunger, frequent urination, frequent infections, areas of darkened skin",Diabetes Type 2
+"fatigue, pain behind eyes, sudden high fever, nausea",Dengue
+"measured high fever, loss of appetite, fatigue, chills",Viral Fever
+"nausea, diarrhea, anemia, muscle pain, headache, vomiting",Malaria
+"pain, stiffness or swelling in your joints, muscle weakness, slowed heart rate, impaired memory, weight gain, elevated blood cholesterol, thinning hair, depression, dry skin, tenderness and stiffness, heavy or irregular menstrual periods, constipation, fatigue, hoarseness, puffy face",Hypothyroidism
+"mild headache, congestion, cough, sore throat, slight body aches, malaise, low-grade fever",Common Cold
+"fatigue, blurred vision, slow-healing sores, increased hunger, frequent infections, numbness or tingling in the hands or feet, unintended weight loss, increased thirst, areas of darkened skin, frequent urination",Diabetes Type 2
+"congestion, sore throat, malaise, runny or stuffy nose",Common Cold
+slight body aches,Common Cold
+"prolonged fever, headache",Typhoid
+"sudden high fever, fatigue, severe headache, vomiting, nausea, skin rash, severe joint and muscle pain",Dengue
+"impaired memory, hoarseness, muscle aches, tenderness and stiffness, puffy face, pain, stiffness or swelling in your joints, dry skin, constipation, weight gain, muscle weakness, heavy or irregular menstrual periods, fatigue, increased sensitivity to cold, slowed heart rate",Hypothyroidism
+"shortness of breath, chest pain, cold hands and feet, fatigue, weakness, irregular heartbeats, pale or yellowish skin, dizziness or lightheadedness",Anemia
+"vomiting, sweating, muscle pain, anemia, nausea, abdominal pain, diarrhea",Malaria
+"measured high fever, body ache, chills, headache, fatigue, loss of appetite",Viral Fever
+"diarrhea or constipation, dry cough, sweating",Typhoid
+"vomiting, headache, nausea, muscle pain, abdominal pain, diarrhea, anemia, fever with shaking chills",Malaria
+"diarrhea or constipation, sweating, loss of appetite, rash, muscle ache, weakness",Typhoid
+"muscle ache, prolonged fever, diarrhea or constipation",Typhoid
+"severe headache, vomiting, pain behind eyes, nausea, sudden high fever",Dengue
+skin rash,Dengue
+"increased thirst, increased hunger, frequent infections, fatigue, numbness or tingling in the hands or feet, unintended weight loss, areas of darkened skin, blurred vision",Diabetes Type 2
+"frequent urination, unintended weight loss, blurred vision, fatigue, slow-healing sores, areas of darkened skin, increased hunger, frequent infections, numbness or tingling in the hands or feet",Diabetes Type 2
+"weakness, loss of appetite, body ache, measured high fever, chills",Viral Fever
+"runny or stuffy nose, slight body aches, mild headache, sneezing, cough, low-grade fever",Common Cold
+"loss of appetite, measured high fever",Viral Fever
+"elevated blood cholesterol, puffy face, slowed heart rate, thinning hair, weight gain, hoarseness, dry skin, muscle aches, depression, impaired memory, tenderness and stiffness, constipation, fatigue, muscle weakness",Hypothyroidism
+"diarrhea, anemia, muscle pain, fever with shaking chills, headache, vomiting, sweating, nausea, abdominal pain",Malaria
+"runny or stuffy nose, cough, sore throat, sneezing, malaise, low-grade fever",Common Cold
+fatigue,Typhoid
+"pain, stiffness or swelling in your joints, thinning hair, increased sensitivity to cold, slowed heart rate, tenderness and stiffness",Hypothyroidism
+"anemia, vomiting, nausea, diarrhea, sweating",Malaria
+"chest pain, weakness, fatigue, irregular heartbeats, cold hands and feet, headache, pale or yellowish skin, dizziness or lightheadedness, shortness of breath",Anemia
+"elevated blood cholesterol, depression, muscle weakness, hoarseness, weight gain",Hypothyroidism
+"headache, sweating, fatigue, rash, abdominal pain, loss of appetite, diarrhea or constipation, weight loss, dry cough, muscle ache, weakness, prolonged fever",Typhoid
+"pain behind eyes, fatigue, severe headache, severe joint and muscle pain, vomiting",Dengue
+"loss of appetite, measured high fever, chills, weakness, body ache, fatigue",Viral Fever
+"mild headache, runny or stuffy nose, sore throat, sneezing, slight body aches, low-grade fever, cough",Common Cold
+"hoarseness, puffy face, dry skin, thinning hair, elevated blood cholesterol, impaired memory, pain, stiffness or swelling in your joints, heavy or irregular menstrual periods, tenderness and stiffness, depression, weight gain, muscle aches, constipation, increased sensitivity to cold, slowed heart rate, fatigue, muscle weakness",Hypothyroidism
+"weakness, fatigue, irregular heartbeats, shortness of breath, pale or yellowish skin, dizziness or lightheadedness, cold hands and feet",Anemia
+"blurred vision, numbness or tingling in the hands or feet, areas of darkened skin, frequent urination, fatigue",Diabetes Type 2
+"chills, headache, loss of appetite, measured high fever, fatigue, weakness, body ache",Viral Fever
+"mild headache, sore throat, cough, congestion",Common Cold
+"anemia, nausea, fever with shaking chills, sweating, diarrhea, vomiting",Malaria
+"anemia, abdominal pain, headache",Malaria
+"shortness of breath, dizziness or lightheadedness, pale or yellowish skin, chest pain, weakness, headache, fatigue, cold hands and feet",Anemia
+"body ache, fatigue",Viral Fever
+"blurred vision, areas of darkened skin",Diabetes Type 2
+"fatigue, muscle aches, weight gain, heavy or irregular menstrual periods, hoarseness, increased sensitivity to cold, tenderness and stiffness, slowed heart rate",Hypothyroidism
+"weakness, irregular heartbeats, cold hands and feet, chest pain, pale or yellowish skin, headache, fatigue, shortness of breath",Anemia
+sudden high fever,Dengue
+"sore throat, slight body aches",Common Cold
+"increased sensitivity to cold, pain, stiffness or swelling in your joints",Hypothyroidism
+"thinning hair, tenderness and stiffness, increased sensitivity to cold, impaired memory, weight gain, depression, elevated blood cholesterol, muscle weakness, heavy or irregular menstrual periods, muscle aches, slowed heart rate, puffy face, dry skin, pain, stiffness or swelling in your joints, hoarseness",Hypothyroidism
+"cold hands and feet, fatigue, shortness of breath, headache, irregular heartbeats, pale or yellowish skin",Anemia
+"increased thirst, frequent infections, unintended weight loss, increased hunger, slow-healing sores, fatigue, numbness or tingling in the hands or feet",Diabetes Type 2
+"congestion, cough",Common Cold
+"mild bleeding, nausea, skin rash, severe joint and muscle pain, sudden high fever, vomiting, pain behind eyes, fatigue, severe headache",Dengue
+"weakness, dizziness or lightheadedness, shortness of breath, headache, irregular heartbeats",Anemia
+"mild headache, congestion, slight body aches, malaise, sore throat",Common Cold
+"diarrhea, anemia, muscle pain",Malaria
+"headache, weight loss",Typhoid
+"malaise, sore throat, mild headache, slight body aches",Common Cold
+"frequent urination, slow-healing sores, numbness or tingling in the hands or feet, unintended weight loss, increased thirst, fatigue, increased hunger, areas of darkened skin, frequent infections",Diabetes Type 2
+"sore throat, slight body aches",Common Cold
+"increased sensitivity to cold, impaired memory, pain, stiffness or swelling in your joints, fatigue, thinning hair, dry skin, hoarseness, puffy face",Hypothyroidism
+"sore throat, mild headache, slight body aches",Common Cold
+"chills, weakness, fatigue, measured high fever, headache, body ache, loss of appetite",Viral Fever
+"unintended weight loss, slow-healing sores, frequent urination, fatigue, blurred vision",Diabetes Type 2
+"muscle weakness, depression, pain, stiffness or swelling in your joints, puffy face, weight gain, dry skin, slowed heart rate, tenderness and stiffness, muscle aches, constipation, thinning hair",Hypothyroidism
+severe joint and muscle pain,Dengue
+"tenderness and stiffness, muscle aches, dry skin, slowed heart rate, depression, weight gain, puffy face, hoarseness",Hypothyroidism
+"chills, headache, body ache, measured high fever, loss of appetite",Viral Fever
+"sweating, nausea, vomiting, abdominal pain, headache, fever with shaking chills",Malaria
+"measured high fever, chills, headache",Viral Fever
+"increased thirst, slow-healing sores, frequent infections, increased hunger, unintended weight loss, frequent urination, fatigue, areas of darkened skin",Diabetes Type 2
+"low-grade fever, cough, malaise, slight body aches, sore throat, sneezing",Common Cold
+"numbness or tingling in the hands or feet, frequent infections, unintended weight loss, blurred vision, areas of darkened skin, increased thirst, slow-healing sores, fatigue, frequent urination, increased hunger",Diabetes Type 2
+slight body aches,Common Cold
+"sudden high fever, fatigue, pain behind eyes, mild bleeding, severe headache, vomiting, skin rash",Dengue
+"increased sensitivity to cold, hoarseness, muscle weakness, fatigue, muscle aches, puffy face, slowed heart rate, dry skin, heavy or irregular menstrual periods, pain, stiffness or swelling in your joints, tenderness and stiffness, weight gain, constipation",Hypothyroidism
+"unintended weight loss, increased hunger, frequent infections, frequent urination, slow-healing sores",Diabetes Type 2
+"cough, low-grade fever, slight body aches, runny or stuffy nose, sneezing, congestion, malaise, sore throat",Common Cold
+fatigue,Diabetes Type 2
+"sweating, dry cough, weight loss, fatigue",Typhoid
+"weakness, fatigue, cold hands and feet, chest pain",Anemia
+"numbness or tingling in the hands or feet, fatigue, increased hunger",Diabetes Type 2
+"measured high fever, loss of appetite, chills, headache, weakness, fatigue, body ache",Viral Fever
+malaise,Common Cold
+"prolonged fever, headache, weight loss, loss of appetite, abdominal pain",Typhoid
+measured high fever,Viral Fever
+"malaise, congestion, mild headache, runny or stuffy nose",Common Cold
+"headache, cold hands and feet, fatigue",Anemia
+"severe joint and muscle pain, pain behind eyes, vomiting, severe headache, mild bleeding",Dengue
+"weakness, irregular heartbeats, shortness of breath, cold hands and feet, headache, fatigue, pale or yellowish skin, chest pain, dizziness or lightheadedness",Anemia
+"weakness, prolonged fever, fatigue, loss of appetite, rash, headache, weight loss, muscle ache, dry cough, sweating, abdominal pain",Typhoid
+"weakness, headache",Viral Fever
+"sneezing, mild headache",Common Cold
+"slowed heart rate, constipation, elevated blood cholesterol, dry skin, tenderness and stiffness, thinning hair, weight gain, fatigue, muscle weakness, hoarseness, impaired memory, pain, stiffness or swelling in your joints, depression, increased sensitivity to cold, puffy face, heavy or irregular menstrual periods, muscle aches",Hypothyroidism
+"weight loss, muscle ache, fatigue",Typhoid
+body ache,Viral Fever
+"increased thirst, numbness or tingling in the hands or feet, areas of darkened skin, blurred vision, slow-healing sores, unintended weight loss, frequent urination, frequent infections, fatigue",Diabetes Type 2
+"muscle pain, abdominal pain, anemia, sweating",Malaria
+"vomiting, muscle pain, nausea, fever with shaking chills, diarrhea, anemia",Malaria
+"headache, vomiting, anemia, fever with shaking chills, nausea, muscle pain, diarrhea, sweating",Malaria
+"dizziness or lightheadedness, pale or yellowish skin, weakness, chest pain",Anemia
+"fatigue, dizziness or lightheadedness, irregular heartbeats, weakness, cold hands and feet, pale or yellowish skin, shortness of breath, headache, chest pain",Anemia
+"hoarseness, dry skin, puffy face, fatigue, thinning hair, depression, heavy or irregular menstrual periods, muscle weakness, tenderness and stiffness, muscle aches, pain, stiffness or swelling in your joints, increased sensitivity to cold, weight gain, elevated blood cholesterol, slowed heart rate",Hypothyroidism
+"frequent infections, areas of darkened skin, increased hunger, slow-healing sores, unintended weight loss, numbness or tingling in the hands or feet, increased thirst",Diabetes Type 2
+headache,Viral Fever
+"congestion, runny or stuffy nose, sore throat, low-grade fever",Common Cold
+"weakness, headache",Viral Fever
+"nausea, severe headache, fatigue, severe joint and muscle pain, skin rash, sudden high fever, pain behind eyes, mild bleeding, vomiting",Dengue
+"weight gain, fatigue, depression, puffy face, hoarseness, dry skin, muscle weakness, tenderness and stiffness, impaired memory",Hypothyroidism
+"anemia, muscle pain, nausea, fever with shaking chills, headache, abdominal pain, vomiting, diarrhea, sweating",Malaria
+"nausea, vomiting, fever with shaking chills, muscle pain",Malaria
+"frequent infections, fatigue, numbness or tingling in the hands or feet, blurred vision, slow-healing sores, frequent urination, unintended weight loss",Diabetes Type 2
+"abdominal pain, diarrhea, anemia, muscle pain, headache, fever with shaking chills, sweating, nausea, vomiting",Malaria
+"constipation, depression, slowed heart rate, tenderness and stiffness, thinning hair, hoarseness, dry skin, pain, stiffness or swelling in your joints",Hypothyroidism
+"weakness, fatigue, measured high fever, chills, body ache, loss of appetite",Viral Fever
+runny or stuffy nose,Common Cold
+"numbness or tingling in the hands or feet, blurred vision, frequent urination, frequent infections",Diabetes Type 2
+"mild bleeding, severe joint and muscle pain, vomiting, severe headache",Dengue
+"dizziness or lightheadedness, irregular heartbeats, pale or yellowish skin, headache, fatigue, shortness of breath",Anemia
+"frequent urination, fatigue, areas of darkened skin, blurred vision, numbness or tingling in the hands or feet, unintended weight loss, frequent infections, increased hunger",Diabetes Type 2
+"fatigue, frequent infections, numbness or tingling in the hands or feet, areas of darkened skin, slow-healing sores",Diabetes Type 2
+"low-grade fever, cough, slight body aches, sneezing, malaise, runny or stuffy nose, congestion",Common Cold
+"slow-healing sores, unintended weight loss, increased thirst, blurred vision, areas of darkened skin, increased hunger, numbness or tingling in the hands or feet",Diabetes Type 2
+"severe joint and muscle pain, severe headache, vomiting, fatigue",Dengue
+runny or stuffy nose,Common Cold
+"weakness, chest pain, cold hands and feet, dizziness or lightheadedness",Anemia
+vomiting,Dengue
+"abdominal pain, muscle pain",Malaria
+"shortness of breath, irregular heartbeats, chest pain, weakness, dizziness or lightheadedness",Anemia
+"rash, prolonged fever, dry cough, abdominal pain, weakness, sweating, diarrhea or constipation",Typhoid
+"areas of darkened skin, frequent infections, blurred vision, frequent urination",Diabetes Type 2
+"cough, runny or stuffy nose, sneezing, mild headache, congestion, sore throat",Common Cold
+"slow-healing sores, blurred vision, numbness or tingling in the hands or feet, areas of darkened skin, increased thirst, unintended weight loss, frequent urination, fatigue, frequent infections",Diabetes Type 2
+"anemia, nausea, sweating",Malaria
+"sore throat, slight body aches, malaise, runny or stuffy nose, low-grade fever, sneezing, congestion",Common Cold
+"fatigue, mild bleeding, nausea",Dengue
+"headache, loss of appetite, dry cough, weakness, muscle ache, abdominal pain, rash, fatigue",Typhoid
+"measured high fever, chills, loss of appetite, fatigue, headache, weakness, body ache",Viral Fever
+"nausea, sweating, muscle pain",Malaria
+weakness,Viral Fever
+"fatigue, puffy face, dry skin, impaired memory, tenderness and stiffness, thinning hair, slowed heart rate",Hypothyroidism
+"severe joint and muscle pain, mild bleeding, fatigue, vomiting",Dengue
+"muscle weakness, constipation, depression, thinning hair, puffy face, weight gain",Hypothyroidism
+"sore throat, cough",Common Cold
+"fever with shaking chills, abdominal pain, sweating, muscle pain, nausea",Malaria
+"areas of darkened skin, fatigue, numbness or tingling in the hands or feet, unintended weight loss, increased thirst, blurred vision",Diabetes Type 2
+"vomiting, mild bleeding, sudden high fever, severe joint and muscle pain",Dengue
+"constipation, elevated blood cholesterol, impaired memory, dry skin, pain, stiffness or swelling in your joints, muscle aches, fatigue, weight gain, tenderness and stiffness, thinning hair, heavy or irregular menstrual periods, slowed heart rate",Hypothyroidism
+loss of appetite,Viral Fever
+rash,Typhoid
+"severe headache, severe joint and muscle pain, nausea, vomiting, fatigue, skin rash, pain behind eyes",Dengue
+sweating,Typhoid
+"fatigue, weakness, body ache, chills, loss of appetite, headache",Viral Fever
+dizziness or lightheadedness,Anemia
+"fatigue, severe joint and muscle pain, mild bleeding, pain behind eyes, nausea, severe headache, skin rash, vomiting, sudden high fever",Dengue
+"blurred vision, unintended weight loss, fatigue, increased hunger, frequent infections, frequent urination, areas of darkened skin, slow-healing sores",Diabetes Type 2
+"vomiting, skin rash",Dengue
+"increased thirst, increased hunger, fatigue, unintended weight loss, blurred vision, frequent urination, areas of darkened skin, slow-healing sores",Diabetes Type 2
+"rash, diarrhea or constipation, muscle ache",Typhoid
+"diarrhea or constipation, headache, rash, weakness, prolonged fever, muscle ache, sweating, loss of appetite, fatigue, weight loss, abdominal pain",Typhoid
+"sore throat, low-grade fever, mild headache, malaise, slight body aches, sneezing, congestion",Common Cold
+"areas of darkened skin, unintended weight loss, frequent urination, frequent infections, numbness or tingling in the hands or feet, increased hunger, increased thirst, blurred vision, fatigue",Diabetes Type 2
+"mild bleeding, severe joint and muscle pain, nausea, fatigue, severe headache",Dengue
+"shortness of breath, pale or yellowish skin, irregular heartbeats, chest pain, cold hands and feet, dizziness or lightheadedness, headache, fatigue",Anemia
+"numbness or tingling in the hands or feet, increased thirst, unintended weight loss, blurred vision, increased hunger, slow-healing sores, fatigue",Diabetes Type 2
+"sudden high fever, severe headache",Dengue
+"muscle pain, vomiting, headache, sweating, fever with shaking chills, anemia, nausea, abdominal pain, diarrhea",Malaria
+"cough, congestion, low-grade fever, slight body aches, sore throat, malaise, sneezing, runny or stuffy nose",Common Cold
+"sudden high fever, severe headache, pain behind eyes, severe joint and muscle pain, skin rash, fatigue, mild bleeding, nausea, vomiting",Dengue
+"mild bleeding, severe joint and muscle pain, pain behind eyes, fatigue",Dengue
+"pale or yellowish skin, shortness of breath, chest pain, cold hands and feet, dizziness or lightheadedness, weakness",Anemia
+"low-grade fever, slight body aches, mild headache, malaise, sneezing, congestion, cough, runny or stuffy nose, sore throat",Common Cold
+"chest pain, headache, shortness of breath, dizziness or lightheadedness, weakness, pale or yellowish skin, fatigue, irregular heartbeats",Anemia
+"tenderness and stiffness, fatigue, thinning hair, increased sensitivity to cold, pain, stiffness or swelling in your joints, depression, slowed heart rate",Hypothyroidism
+"blurred vision, increased thirst, slow-healing sores, increased hunger, frequent infections, unintended weight loss",Diabetes Type 2
+"fatigue, rash, abdominal pain, sweating, weight loss, loss of appetite, dry cough",Typhoid
+severe headache,Dengue
+sweating,Malaria
+"pale or yellowish skin, irregular heartbeats, chest pain, headache, dizziness or lightheadedness, fatigue, weakness",Anemia
+"headache, nausea, diarrhea, sweating, vomiting, anemia, abdominal pain, fever with shaking chills",Malaria
+"shortness of breath, cold hands and feet, irregular heartbeats, dizziness or lightheadedness, chest pain, pale or yellowish skin, headache, weakness",Anemia
+"unintended weight loss, increased thirst, areas of darkened skin, fatigue, frequent infections",Diabetes Type 2
+"areas of darkened skin, slow-healing sores, frequent infections",Diabetes Type 2
+"fever with shaking chills, nausea, anemia, diarrhea, headache",Malaria
+"muscle pain, headache",Malaria
+vomiting,Dengue
+"muscle ache, fatigue, weakness, prolonged fever, dry cough",Typhoid
+headache,Anemia
+"slow-healing sores, fatigue, frequent urination, numbness or tingling in the hands or feet, areas of darkened skin, blurred vision, frequent infections",Diabetes Type 2
+"blurred vision, frequent infections, increased hunger, fatigue, areas of darkened skin, unintended weight loss, increased thirst, slow-healing sores",Diabetes Type 2
+"depression, dry skin, pain, stiffness or swelling in your joints, muscle aches, hoarseness, elevated blood cholesterol, slowed heart rate, muscle weakness",Hypothyroidism
+"tenderness and stiffness, hoarseness",Hypothyroidism
+"fever with shaking chills, nausea, anemia",Malaria
+"chills, loss of appetite, headache, measured high fever, body ache, weakness",Viral Fever
+"abdominal pain, fever with shaking chills, nausea, headache, diarrhea, sweating",Malaria
+"hoarseness, pain, stiffness or swelling in your joints, muscle aches, depression, dry skin, slowed heart rate, constipation, fatigue, elevated blood cholesterol, weight gain, puffy face, thinning hair, tenderness and stiffness, muscle weakness, heavy or irregular menstrual periods, increased sensitivity to cold",Hypothyroidism
+"headache, nausea",Malaria
+mild headache,Common Cold
+"sore throat, congestion, low-grade fever, malaise, runny or stuffy nose, cough, mild headache, sneezing, slight body aches",Common Cold
+"impaired memory, constipation, weight gain, puffy face, muscle weakness, slowed heart rate, hoarseness, heavy or irregular menstrual periods, fatigue, dry skin, increased sensitivity to cold, elevated blood cholesterol",Hypothyroidism
+"numbness or tingling in the hands or feet, blurred vision, frequent urination",Diabetes Type 2
+"mild headache, low-grade fever, malaise, sore throat",Common Cold
+"slow-healing sores, fatigue, areas of darkened skin, increased thirst, numbness or tingling in the hands or feet, blurred vision, frequent urination, frequent infections, increased hunger",Diabetes Type 2
+"chest pain, shortness of breath, dizziness or lightheadedness, fatigue, irregular heartbeats",Anemia
+"frequent infections, blurred vision, areas of darkened skin, increased thirst, fatigue",Diabetes Type 2
+"cold hands and feet, pale or yellowish skin",Anemia
+"nausea, vomiting, anemia, fever with shaking chills, headache, abdominal pain, muscle pain, diarrhea, sweating",Malaria
+"runny or stuffy nose, congestion, slight body aches, malaise",Common Cold
+"weight loss, headache, diarrhea or constipation, loss of appetite",Typhoid
+"severe headache, mild bleeding, fatigue, sudden high fever, skin rash, vomiting",Dengue
+"nausea, fatigue, severe joint and muscle pain, sudden high fever, mild bleeding",Dengue
+"congestion, sneezing, malaise",Common Cold
+"fatigue, blurred vision, frequent infections",Diabetes Type 2
+"dizziness or lightheadedness, pale or yellowish skin, shortness of breath, cold hands and feet, irregular heartbeats, weakness, fatigue, chest pain",Anemia
+"pain behind eyes, nausea, sudden high fever, mild bleeding, skin rash, fatigue, severe headache, severe joint and muscle pain, vomiting",Dengue
+"muscle pain, anemia, diarrhea, sweating, nausea, fever with shaking chills, headache",Malaria
+"shortness of breath, cold hands and feet, pale or yellowish skin",Anemia
+fatigue,Dengue
+"blurred vision, increased thirst, unintended weight loss, fatigue, increased hunger, slow-healing sores, areas of darkened skin",Diabetes Type 2
+chills,Viral Fever
+"mild headache, slight body aches, malaise, sneezing",Common Cold
+mild bleeding,Dengue
+"thinning hair, muscle weakness, impaired memory, slowed heart rate, heavy or irregular menstrual periods, depression, increased sensitivity to cold, pain, stiffness or swelling in your joints, puffy face, hoarseness, weight gain, fatigue, constipation, dry skin, tenderness and stiffness, muscle aches",Hypothyroidism
+"sudden high fever, severe joint and muscle pain, pain behind eyes, skin rash, mild bleeding, severe headache, nausea, fatigue, vomiting",Dengue
+abdominal pain,Typhoid
+"increased hunger, areas of darkened skin, blurred vision, fatigue",Diabetes Type 2
+"numbness or tingling in the hands or feet, fatigue, unintended weight loss, increased thirst, frequent infections, increased hunger, blurred vision, frequent urination",Diabetes Type 2
+"skin rash, severe joint and muscle pain, nausea, severe headache, sudden high fever, pain behind eyes, mild bleeding",Dengue
+"low-grade fever, sore throat, runny or stuffy nose, mild headache, sneezing",Common Cold
+"dizziness or lightheadedness, headache",Anemia
+"weakness, headache, chills, measured high fever, body ache, loss of appetite, fatigue",Viral Fever
+"vomiting, skin rash, nausea, severe joint and muscle pain, severe headache, pain behind eyes",Dengue
+"slight body aches, low-grade fever, sneezing, mild headache, malaise, runny or stuffy nose, cough, sore throat",Common Cold
+"low-grade fever, runny or stuffy nose, slight body aches, malaise, cough, sore throat, sneezing, mild headache, congestion",Common Cold
+"abdominal pain, prolonged fever, diarrhea or constipation, headache, sweating, weight loss, loss of appetite, fatigue",Typhoid
+"blurred vision, areas of darkened skin, increased hunger, numbness or tingling in the hands or feet, unintended weight loss",Diabetes Type 2
+"fever with shaking chills, sweating, vomiting, nausea, anemia, headache, abdominal pain",Malaria
+"blurred vision, fatigue, areas of darkened skin, numbness or tingling in the hands or feet, increased thirst, frequent urination, increased hunger",Diabetes Type 2
+"severe headache, sudden high fever, pain behind eyes, mild bleeding, severe joint and muscle pain, nausea, skin rash, vomiting",Dengue
+"elevated blood cholesterol, hoarseness, muscle aches, slowed heart rate, heavy or irregular menstrual periods",Hypothyroidism
+"constipation, weight gain",Hypothyroidism
+"headache, rash, prolonged fever, loss of appetite, sweating, weight loss, fatigue, dry cough, weakness, muscle ache",Typhoid
+"chills, fatigue, measured high fever, loss of appetite, body ache, headache",Viral Fever
+runny or stuffy nose,Common Cold
+"weakness, shortness of breath, irregular heartbeats, cold hands and feet, dizziness or lightheadedness, chest pain, headache, pale or yellowish skin",Anemia
+"pale or yellowish skin, headache, dizziness or lightheadedness, weakness, fatigue, chest pain, irregular heartbeats, cold hands and feet, shortness of breath",Anemia
+"muscle ache, fatigue",Typhoid
+"diarrhea, headache, abdominal pain, nausea",Malaria
+"tenderness and stiffness, hoarseness, weight gain, depression, increased sensitivity to cold, muscle weakness, dry skin, slowed heart rate",Hypothyroidism
+"vomiting, nausea, skin rash, sudden high fever",Dengue
+"pain, stiffness or swelling in your joints, constipation, hoarseness, slowed heart rate, impaired memory, muscle aches, thinning hair, puffy face, increased sensitivity to cold, dry skin, fatigue, weight gain, heavy or irregular menstrual periods, tenderness and stiffness, muscle weakness, depression",Hypothyroidism
+pale or yellowish skin,Anemia
+"sweating, nausea, abdominal pain, vomiting, diarrhea, headache, fever with shaking chills, muscle pain, anemia",Malaria
+"vomiting, severe joint and muscle pain, pain behind eyes, skin rash, nausea, fatigue",Dengue
+"frequent infections, slow-healing sores, increased thirst",Diabetes Type 2
+nausea,Malaria
+"headache, fatigue, pale or yellowish skin",Anemia
+"sudden high fever, nausea, vomiting, skin rash",Dengue
+"sweating, fever with shaking chills, anemia, muscle pain, diarrhea, nausea",Malaria
+"weakness, irregular heartbeats",Anemia
+"hoarseness, impaired memory, tenderness and stiffness, muscle weakness, pain, stiffness or swelling in your joints, dry skin, elevated blood cholesterol, heavy or irregular menstrual periods, increased sensitivity to cold, slowed heart rate",Hypothyroidism
+"severe headache, pain behind eyes, nausea",Dengue
+"slowed heart rate, puffy face, increased sensitivity to cold, fatigue, elevated blood cholesterol, thinning hair, heavy or irregular menstrual periods, muscle weakness, hoarseness, depression, pain, stiffness or swelling in your joints, muscle aches, tenderness and stiffness",Hypothyroidism
+"weakness, dry cough, weight loss, prolonged fever, fatigue, diarrhea or constipation, muscle ache, sweating, abdominal pain, rash, loss of appetite, headache",Typhoid
+"slow-healing sores, areas of darkened skin, increased thirst, frequent urination, increased hunger, blurred vision, frequent infections, unintended weight loss, fatigue, numbness or tingling in the hands or feet",Diabetes Type 2
+"abdominal pain, nausea",Malaria
+"headache, diarrhea",Malaria
+"increased sensitivity to cold, weight gain, heavy or irregular menstrual periods, muscle aches, dry skin, impaired memory, puffy face, slowed heart rate, hoarseness, depression, muscle weakness, tenderness and stiffness",Hypothyroidism
+weakness,Viral Fever
+"rash, loss of appetite",Typhoid
+"tenderness and stiffness, increased sensitivity to cold, weight gain, heavy or irregular menstrual periods, puffy face",Hypothyroidism
+"increased hunger, increased thirst",Diabetes Type 2
+"body ache, headache, fatigue, chills, measured high fever",Viral Fever
+"loss of appetite, fatigue, weakness, chills, body ache, headache, measured high fever",Viral Fever
+"fatigue, diarrhea or constipation, muscle ache, prolonged fever, loss of appetite, sweating, dry cough",Typhoid
+"loss of appetite, fatigue, body ache, measured high fever, chills, headache, weakness",Viral Fever
+"sneezing, slight body aches",Common Cold
+"mild headache, slight body aches, congestion, sneezing, low-grade fever, cough, malaise",Common Cold
+"nausea, skin rash, severe headache, pain behind eyes, fatigue, vomiting",Dengue
+"diarrhea, abdominal pain, anemia, vomiting, fever with shaking chills",Malaria
+"blurred vision, unintended weight loss, increased thirst, slow-healing sores",Diabetes Type 2
+"chills, weakness, body ache, headache, measured high fever, loss of appetite",Viral Fever
+"fever with shaking chills, headache",Malaria
+"mild bleeding, severe joint and muscle pain, vomiting, fatigue, skin rash",Dengue
+fatigue,Viral Fever
+"thinning hair, hoarseness, impaired memory, constipation, muscle weakness, increased sensitivity to cold, weight gain, depression, dry skin, muscle aches, heavy or irregular menstrual periods, puffy face, slowed heart rate, fatigue, tenderness and stiffness",Hypothyroidism
+"body ache, fatigue, headache, chills, measured high fever, weakness, loss of appetite",Viral Fever
+"diarrhea or constipation, weakness, sweating, prolonged fever, loss of appetite, dry cough",Typhoid
+"anemia, vomiting, diarrhea",Malaria
+"increased sensitivity to cold, elevated blood cholesterol, slowed heart rate, tenderness and stiffness, muscle aches, pain, stiffness or swelling in your joints, constipation, puffy face, depression, weight gain, impaired memory, muscle weakness, fatigue, heavy or irregular menstrual periods, hoarseness",Hypothyroidism
+"headache, fatigue, pale or yellowish skin, irregular heartbeats, weakness, dizziness or lightheadedness, chest pain, cold hands and feet",Anemia
+"depression, hoarseness",Hypothyroidism
+"headache, anemia, sweating, fever with shaking chills, vomiting, abdominal pain",Malaria
+"loss of appetite, chills, weakness",Viral Fever
+"fatigue, loss of appetite, rash, sweating, weakness, abdominal pain, headache, muscle ache, diarrhea or constipation, dry cough, weight loss",Typhoid
+"fatigue, chills, weakness, body ache, measured high fever",Viral Fever
+"mild headache, slight body aches, runny or stuffy nose, cough, malaise, sneezing, sore throat",Common Cold
+weakness,Anemia
+"malaise, cough, mild headache, congestion, runny or stuffy nose, slight body aches, sore throat",Common Cold
+"mild bleeding, severe joint and muscle pain",Dengue
+"weight gain, thinning hair",Hypothyroidism
+"frequent infections, increased thirst, areas of darkened skin, frequent urination, slow-healing sores, unintended weight loss, fatigue, increased hunger, blurred vision",Diabetes Type 2
+"heavy or irregular menstrual periods, tenderness and stiffness, elevated blood cholesterol, constipation",Hypothyroidism
+"pain behind eyes, skin rash",Dengue
+"numbness or tingling in the hands or feet, areas of darkened skin, frequent infections, unintended weight loss",Diabetes Type 2
+severe headache,Dengue
+"slight body aches, mild headache, sore throat, sneezing",Common Cold
+"irregular heartbeats, weakness, shortness of breath, chest pain, cold hands and feet",Anemia
+frequent urination,Diabetes Type 2
+"loss of appetite, weakness, measured high fever, headache, fatigue, body ache, chills",Viral Fever
+sneezing,Common Cold
+"sweating, vomiting, muscle pain, diarrhea, fever with shaking chills, abdominal pain, anemia, nausea",Malaria
+"pain behind eyes, nausea",Dengue
+"weight gain, thinning hair, tenderness and stiffness, elevated blood cholesterol, puffy face, hoarseness, muscle weakness, fatigue, constipation, heavy or irregular menstrual periods, pain, stiffness or swelling in your joints, slowed heart rate, increased sensitivity to cold, muscle aches, depression",Hypothyroidism
+"abdominal pain, dry cough, weakness, fatigue, prolonged fever, sweating, headache",Typhoid
+"vomiting, nausea, sudden high fever, fatigue, pain behind eyes, mild bleeding, severe headache",Dengue
+sudden high fever,Dengue
+"tenderness and stiffness, impaired memory, heavy or irregular menstrual periods, pain, stiffness or swelling in your joints, muscle aches, dry skin, increased sensitivity to cold, depression, slowed heart rate, hoarseness, puffy face, thinning hair, constipation, fatigue, elevated blood cholesterol, weight gain",Hypothyroidism
+"increased thirst, increased hunger",Diabetes Type 2
+"frequent urination, frequent infections, slow-healing sores, increased hunger, blurred vision, increased thirst",Diabetes Type 2
+"headache, weakness, body ache",Viral Fever
+"mild bleeding, nausea, sudden high fever",Dengue
+"abdominal pain, diarrhea or constipation, dry cough, muscle ache, prolonged fever, sweating, rash",Typhoid
+"slow-healing sores, frequent infections, blurred vision, frequent urination, numbness or tingling in the hands or feet, increased thirst",Diabetes Type 2
+"dry skin, constipation, hoarseness, heavy or irregular menstrual periods, fatigue, muscle aches, pain, stiffness or swelling in your joints, elevated blood cholesterol, depression",Hypothyroidism
+"frequent urination, increased hunger, areas of darkened skin, frequent infections, slow-healing sores, unintended weight loss, numbness or tingling in the hands or feet, blurred vision, increased thirst, fatigue",Diabetes Type 2
+sore throat,Common Cold
+"increased sensitivity to cold, muscle weakness, constipation, hoarseness, tenderness and stiffness",Hypothyroidism
+"fatigue, headache, diarrhea or constipation, loss of appetite, muscle ache, dry cough, weight loss, sweating, rash, weakness, abdominal pain, prolonged fever",Typhoid
+"weakness, fatigue, abdominal pain",Typhoid
+"fatigue, nausea, sudden high fever, mild bleeding",Dengue
+"fever with shaking chills, muscle pain, abdominal pain, anemia, diarrhea, sweating, vomiting, nausea, headache",Malaria
+"vomiting, fever with shaking chills, sweating, muscle pain",Malaria
+"anemia, abdominal pain, nausea",Malaria
+"measured high fever, chills, weakness, loss of appetite, headache, fatigue",Viral Fever
+"sneezing, congestion, sore throat, mild headache",Common Cold
+"heavy or irregular menstrual periods, depression, thinning hair, weight gain, muscle weakness, fatigue, dry skin, tenderness and stiffness, puffy face, impaired memory, slowed heart rate, elevated blood cholesterol",Hypothyroidism
+"headache, sweating, rash, weakness, abdominal pain, prolonged fever, muscle ache, dry cough, fatigue, weight loss, diarrhea or constipation",Typhoid
+"dry skin, slowed heart rate, thinning hair, hoarseness, muscle aches, constipation, impaired memory, heavy or irregular menstrual periods, muscle weakness, weight gain, depression, fatigue, increased sensitivity to cold, pain, stiffness or swelling in your joints",Hypothyroidism
+"diarrhea, headache, muscle pain, fever with shaking chills, abdominal pain, nausea",Malaria
+"headache, cold hands and feet, irregular heartbeats, fatigue, weakness, dizziness or lightheadedness",Anemia
+"chest pain, shortness of breath",Anemia
+"muscle ache, fatigue, dry cough, diarrhea or constipation, sweating",Typhoid
+"weight gain, puffy face, tenderness and stiffness, muscle aches, heavy or irregular menstrual periods",Hypothyroidism
+"increased sensitivity to cold, impaired memory, fatigue, constipation, thinning hair",Hypothyroidism
+weakness,Anemia
+"cough, low-grade fever, sore throat, mild headache",Common Cold
+"cough, mild headache, congestion, low-grade fever",Common Cold
+fatigue,Typhoid
+"fatigue, muscle weakness, heavy or irregular menstrual periods, impaired memory, slowed heart rate, depression, tenderness and stiffness",Hypothyroidism
+"measured high fever, body ache, loss of appetite, weakness, chills, headache, fatigue",Viral Fever
+"cold hands and feet, chest pain, pale or yellowish skin, irregular heartbeats, dizziness or lightheadedness, weakness, shortness of breath",Anemia
+"headache, chills, measured high fever, weakness, loss of appetite, body ache, fatigue",Viral Fever
+"severe headache, skin rash, pain behind eyes, sudden high fever, severe joint and muscle pain, fatigue, mild bleeding, nausea, vomiting",Dengue
+"nausea, abdominal pain, muscle pain, vomiting, diarrhea, headache, fever with shaking chills, sweating",Malaria
+"fatigue, weakness, pale or yellowish skin",Anemia
+"muscle ache, rash, headache",Typhoid
+"chills, measured high fever, fatigue, loss of appetite, headache, body ache",Viral Fever
+"abdominal pain, weakness, sweating",Typhoid
+"chills, weakness",Viral Fever
+"diarrhea, muscle pain, anemia, sweating, headache, abdominal pain, nausea",Malaria
+"severe headache, fatigue, nausea, skin rash, vomiting",Dengue
+"malaise, runny or stuffy nose, congestion, mild headache",Common Cold
+"sneezing, malaise",Common Cold
+"fatigue, numbness or tingling in the hands or feet, slow-healing sores, areas of darkened skin",Diabetes Type 2
+body ache,Viral Fever
+"abdominal pain, weakness, fatigue, dry cough, headache",Typhoid
+"fatigue, blurred vision, increased hunger, slow-healing sores, increased thirst",Diabetes Type 2
+"sweating, headache, vomiting, muscle pain, fever with shaking chills, anemia, abdominal pain, nausea, diarrhea",Malaria
+"muscle pain, fever with shaking chills, sweating, anemia, headache, vomiting, nausea",Malaria
+"sweating, muscle pain, fever with shaking chills, nausea, anemia, headache, abdominal pain",Malaria
+"shortness of breath, chest pain, cold hands and feet, fatigue, pale or yellowish skin, weakness, headache",Anemia
+"skin rash, sudden high fever, severe joint and muscle pain, fatigue, severe headache, mild bleeding, pain behind eyes, nausea",Dengue
+"loss of appetite, weight loss, muscle ache, weakness, rash",Typhoid
+"depression, pain, stiffness or swelling in your joints, muscle weakness, elevated blood cholesterol, weight gain, slowed heart rate, dry skin, fatigue, impaired memory, puffy face, hoarseness, thinning hair, tenderness and stiffness, constipation",Hypothyroidism
+"pain behind eyes, skin rash, nausea",Dengue
+"headache, fatigue, body ache, weakness, chills",Viral Fever
+"slowed heart rate, puffy face, fatigue, muscle weakness, hoarseness, depression, constipation, impaired memory, increased sensitivity to cold, weight gain, tenderness and stiffness, elevated blood cholesterol, muscle aches, dry skin, heavy or irregular menstrual periods",Hypothyroidism
+"pain, stiffness or swelling in your joints, weight gain, puffy face, muscle weakness, elevated blood cholesterol, fatigue",Hypothyroidism
+"prolonged fever, sweating, loss of appetite, dry cough",Typhoid
+"fatigue, loss of appetite, rash, dry cough, weight loss, abdominal pain, headache, sweating, weakness, diarrhea or constipation, prolonged fever",Typhoid
+"nausea, sudden high fever, vomiting",Dengue
+"fatigue, rash, weight loss, weakness, loss of appetite, diarrhea or constipation, dry cough, muscle ache, sweating",Typhoid
+"slow-healing sores, frequent infections, increased thirst, blurred vision",Diabetes Type 2
+"increased thirst, areas of darkened skin, increased hunger, numbness or tingling in the hands or feet, frequent infections, blurred vision, slow-healing sores, frequent urination, fatigue, unintended weight loss",Diabetes Type 2
+"malaise, sore throat, low-grade fever, mild headache, congestion, cough, sneezing",Common Cold
+"headache, chills",Viral Fever
+"malaise, runny or stuffy nose, sore throat, slight body aches",Common Cold
+"measured high fever, headache, fatigue, body ache, weakness, chills, loss of appetite",Viral Fever
+fever with shaking chills,Malaria
+"prolonged fever, sweating, muscle ache, headache, fatigue, rash, weakness, abdominal pain",Typhoid
+"loss of appetite, weakness, prolonged fever",Typhoid
+"pale or yellowish skin, chest pain",Anemia
+rash,Typhoid
+"pale or yellowish skin, irregular heartbeats, fatigue, dizziness or lightheadedness, headache, cold hands and feet, shortness of breath, chest pain, weakness",Anemia
+increased thirst,Diabetes Type 2
+"severe joint and muscle pain, skin rash, severe headache, sudden high fever, pain behind eyes, fatigue, mild bleeding, vomiting",Dengue
+"fatigue, areas of darkened skin",Diabetes Type 2
+"vomiting, fatigue, mild bleeding, severe joint and muscle pain, nausea, skin rash, sudden high fever, pain behind eyes",Dengue
+"headache, prolonged fever, diarrhea or constipation, loss of appetite, weight loss, weakness",Typhoid
+pale or yellowish skin,Anemia
+"measured high fever, weakness, loss of appetite",Viral Fever
+"nausea, skin rash, severe headache, vomiting, mild bleeding, pain behind eyes, sudden high fever, fatigue",Dengue
+"increased sensitivity to cold, thinning hair, hoarseness, elevated blood cholesterol, tenderness and stiffness, fatigue, heavy or irregular menstrual periods, depression, impaired memory, constipation, dry skin, puffy face, slowed heart rate, muscle weakness, weight gain, pain, stiffness or swelling in your joints, muscle aches",Hypothyroidism
+"shortness of breath, dizziness or lightheadedness, chest pain, cold hands and feet, pale or yellowish skin, irregular heartbeats",Anemia
+"increased thirst, slow-healing sores, frequent infections, numbness or tingling in the hands or feet, frequent urination",Diabetes Type 2
+"sneezing, congestion, cough",Common Cold
+"slowed heart rate, fatigue, weight gain, muscle aches, dry skin, elevated blood cholesterol",Hypothyroidism
+"weakness, muscle ache, sweating, rash, weight loss, headache, diarrhea or constipation, prolonged fever",Typhoid
+"congestion, low-grade fever, sore throat, malaise, slight body aches, sneezing, cough, mild headache, runny or stuffy nose",Common Cold
+"chills, loss of appetite, measured high fever, weakness, body ache, headache",Viral Fever
+"headache, fatigue",Viral Fever
+"areas of darkened skin, frequent urination, fatigue, unintended weight loss, increased hunger, increased thirst, numbness or tingling in the hands or feet, slow-healing sores, frequent infections, blurred vision",Diabetes Type 2
+"headache, loss of appetite, rash, abdominal pain, weight loss, prolonged fever, dry cough, muscle ache, diarrhea or constipation, weakness, fatigue, sweating",Typhoid
+"sneezing, mild headache, low-grade fever, sore throat, congestion, slight body aches",Common Cold
+"mild headache, malaise, congestion, slight body aches, runny or stuffy nose",Common Cold
+"fatigue, dry cough, abdominal pain, loss of appetite, headache, rash, weakness, diarrhea or constipation, weight loss, sweating, muscle ache, prolonged fever",Typhoid
+"unintended weight loss, increased hunger, increased thirst, fatigue, slow-healing sores, areas of darkened skin",Diabetes Type 2
+"weakness, loss of appetite, measured high fever, body ache",Viral Fever
+"sweating, weight loss, headache, abdominal pain, prolonged fever, muscle ache",Typhoid
+"fatigue, increased thirst, increased hunger, unintended weight loss, frequent urination, blurred vision, frequent infections, slow-healing sores",Diabetes Type 2
+chest pain,Anemia
+"shortness of breath, dizziness or lightheadedness",Anemia
+"headache, measured high fever",Viral Fever
+"frequent urination, increased hunger, unintended weight loss, slow-healing sores, numbness or tingling in the hands or feet, frequent infections, areas of darkened skin, blurred vision",Diabetes Type 2
+"slow-healing sores, numbness or tingling in the hands or feet, blurred vision",Diabetes Type 2
+"sweating, anemia, vomiting, diarrhea, nausea",Malaria
+areas of darkened skin,Diabetes Type 2
+"muscle ache, sweating, loss of appetite, abdominal pain, weight loss, headache, fatigue, weakness",Typhoid
+"areas of darkened skin, increased thirst, slow-healing sores, increased hunger, fatigue, frequent urination",Diabetes Type 2
+"severe headache, pain behind eyes, nausea, severe joint and muscle pain, mild bleeding, vomiting, sudden high fever, fatigue, skin rash",Dengue
+"chest pain, cold hands and feet, fatigue, weakness, headache, irregular heartbeats, shortness of breath, dizziness or lightheadedness",Anemia
+"shortness of breath, fatigue, cold hands and feet, headache, irregular heartbeats, weakness, dizziness or lightheadedness, pale or yellowish skin",Anemia
+"fatigue, areas of darkened skin",Diabetes Type 2
+"areas of darkened skin, increased hunger, numbness or tingling in the hands or feet",Diabetes Type 2
+"pain behind eyes, fatigue, sudden high fever, severe headache, mild bleeding, severe joint and muscle pain, nausea",Dengue
+"sudden high fever, mild bleeding, severe joint and muscle pain, severe headache, vomiting, fatigue, skin rash, pain behind eyes, nausea",Dengue
+"chills, headache, body ache, loss of appetite, weakness, fatigue, measured high fever",Viral Fever
+"vomiting, anemia, sweating, muscle pain, abdominal pain, nausea, fever with shaking chills, diarrhea",Malaria
+impaired memory,Hypothyroidism
+"slow-healing sores, frequent urination, increased thirst, numbness or tingling in the hands or feet, frequent infections, fatigue, unintended weight loss",Diabetes Type 2
+"mild bleeding, severe joint and muscle pain",Dengue
+"frequent urination, increased hunger, increased thirst, numbness or tingling in the hands or feet, unintended weight loss, blurred vision, slow-healing sores, areas of darkened skin",Diabetes Type 2
+"headache, irregular heartbeats, cold hands and feet, fatigue, pale or yellowish skin, chest pain, shortness of breath, dizziness or lightheadedness",Anemia
+muscle ache,Typhoid
+slow-healing sores,Diabetes Type 2
+"increased sensitivity to cold, elevated blood cholesterol",Hypothyroidism
+"unintended weight loss, increased hunger, numbness or tingling in the hands or feet, blurred vision, frequent urination, increased thirst, frequent infections, slow-healing sores, areas of darkened skin",Diabetes Type 2
+"congestion, slight body aches, sore throat, mild headache, malaise, low-grade fever",Common Cold
+"mild bleeding, sudden high fever, pain behind eyes, vomiting",Dengue
+"congestion, sneezing, runny or stuffy nose, mild headache, malaise, slight body aches, sore throat, low-grade fever, cough",Common Cold
+rash,Typhoid
+"diarrhea or constipation, weight loss, loss of appetite",Typhoid
+"numbness or tingling in the hands or feet, areas of darkened skin, increased hunger, frequent urination, fatigue, frequent infections",Diabetes Type 2
+"heavy or irregular menstrual periods, pain, stiffness or swelling in your joints, thinning hair, muscle aches, fatigue, tenderness and stiffness, dry skin, depression, weight gain, muscle weakness, constipation, puffy face, slowed heart rate",Hypothyroidism
+"blurred vision, frequent urination, slow-healing sores, increased thirst, unintended weight loss, frequent infections, fatigue, increased hunger, areas of darkened skin, numbness or tingling in the hands or feet",Diabetes Type 2
+"increased thirst, unintended weight loss, frequent urination, frequent infections, increased hunger, fatigue, areas of darkened skin, slow-healing sores",Diabetes Type 2
+dizziness or lightheadedness,Anemia
+"dizziness or lightheadedness, headache, weakness, irregular heartbeats, chest pain, fatigue",Anemia
+"dizziness or lightheadedness, weakness, irregular heartbeats, chest pain, shortness of breath",Anemia
+"malaise, congestion, low-grade fever, mild headache, cough, sneezing, sore throat, runny or stuffy nose, slight body aches",Common Cold
+"dry cough, fatigue, abdominal pain, prolonged fever, diarrhea or constipation, rash",Typhoid
+"elevated blood cholesterol, fatigue, thinning hair, slowed heart rate, muscle aches, pain, stiffness or swelling in your joints, hoarseness, impaired memory, constipation, weight gain, heavy or irregular menstrual periods, puffy face, tenderness and stiffness, dry skin, increased sensitivity to cold",Hypothyroidism
+"areas of darkened skin, frequent infections, slow-healing sores",Diabetes Type 2
+"thinning hair, muscle aches, muscle weakness, weight gain, heavy or irregular menstrual periods, fatigue, hoarseness",Hypothyroidism
+"numbness or tingling in the hands or feet, fatigue, frequent urination, slow-healing sores, areas of darkened skin, increased hunger",Diabetes Type 2
+"chest pain, irregular heartbeats, shortness of breath",Anemia
+"pain, stiffness or swelling in your joints, tenderness and stiffness, slowed heart rate, thinning hair, constipation, hoarseness, fatigue, increased sensitivity to cold, dry skin, muscle aches, weight gain, depression, heavy or irregular menstrual periods, muscle weakness, puffy face, elevated blood cholesterol",Hypothyroidism
+"nausea, pain behind eyes, vomiting, skin rash, fatigue",Dengue
+"anemia, fever with shaking chills, sweating",Malaria
+"fatigue, frequent urination",Diabetes Type 2
+"runny or stuffy nose, congestion, mild headache, sore throat, cough, malaise",Common Cold
+"headache, pale or yellowish skin, irregular heartbeats, fatigue, dizziness or lightheadedness, shortness of breath, cold hands and feet",Anemia
+"fatigue, measured high fever, loss of appetite, chills, body ache, weakness",Viral Fever
+abdominal pain,Malaria
+"slowed heart rate, muscle weakness, dry skin, muscle aches, thinning hair, pain, stiffness or swelling in your joints, tenderness and stiffness, impaired memory, fatigue, constipation, hoarseness, depression",Hypothyroidism
+"weakness, rash",Typhoid
+blurred vision,Diabetes Type 2
+"fever with shaking chills, sweating, vomiting, nausea, diarrhea, anemia",Malaria
+"skin rash, nausea, vomiting, pain behind eyes, severe joint and muscle pain, sudden high fever, severe headache, fatigue",Dengue
+"sweating, anemia, diarrhea, nausea, muscle pain, vomiting, headache, abdominal pain, fever with shaking chills",Malaria
+"increased hunger, areas of darkened skin, fatigue, frequent urination, frequent infections, numbness or tingling in the hands or feet, slow-healing sores, increased thirst",Diabetes Type 2
+malaise,Common Cold
+"slowed heart rate, muscle aches, depression, hoarseness, muscle weakness, fatigue, increased sensitivity to cold, impaired memory, dry skin, constipation, tenderness and stiffness, thinning hair, pain, stiffness or swelling in your joints, elevated blood cholesterol, puffy face, heavy or irregular menstrual periods",Hypothyroidism
+"irregular heartbeats, headache, chest pain, dizziness or lightheadedness, fatigue",Anemia
+"muscle weakness, muscle aches, thinning hair, weight gain, elevated blood cholesterol, slowed heart rate, constipation, heavy or irregular menstrual periods, puffy face, tenderness and stiffness",Hypothyroidism
+severe joint and muscle pain,Dengue
+"vomiting, sweating, headache, muscle pain, fever with shaking chills",Malaria
+"skin rash, severe headache, nausea, sudden high fever, pain behind eyes, severe joint and muscle pain, mild bleeding, fatigue, vomiting",Dengue
+"chills, measured high fever, body ache, loss of appetite, fatigue",Viral Fever
+slight body aches,Common Cold
+"sweating, dry cough, prolonged fever, headache, weakness, loss of appetite, weight loss, muscle ache, abdominal pain",Typhoid
+"anemia, diarrhea, headache, fever with shaking chills, vomiting, abdominal pain, nausea, sweating",Malaria
+"dizziness or lightheadedness, fatigue, shortness of breath, weakness, pale or yellowish skin",Anemia
+"muscle ache, fatigue, dry cough, prolonged fever, headache, diarrhea or constipation, abdominal pain, sweating, rash, loss of appetite, weight loss, weakness",Typhoid
+"muscle weakness, weight gain, dry skin, thinning hair, fatigue, elevated blood cholesterol, depression",Hypothyroidism
+fatigue,Typhoid
+"frequent infections, numbness or tingling in the hands or feet, frequent urination, blurred vision, increased hunger",Diabetes Type 2
+"sore throat, runny or stuffy nose, cough, mild headache",Common Cold
+abdominal pain,Malaria
+"fatigue, unintended weight loss, slow-healing sores, numbness or tingling in the hands or feet, frequent urination, increased hunger, areas of darkened skin, frequent infections, blurred vision",Diabetes Type 2
+loss of appetite,Typhoid
+"cough, runny or stuffy nose, sneezing, mild headache, low-grade fever",Common Cold
+"dry cough, weight loss, diarrhea or constipation, abdominal pain, prolonged fever, weakness, muscle ache, rash, loss of appetite, fatigue, headache",Typhoid
+"skin rash, mild bleeding, vomiting, pain behind eyes, severe joint and muscle pain, nausea, sudden high fever",Dengue
+"mild headache, cough, runny or stuffy nose, low-grade fever, sore throat, malaise, sneezing, congestion",Common Cold
+"slight body aches, congestion, cough",Common Cold
+"prolonged fever, weight loss",Typhoid
+"chest pain, cold hands and feet, pale or yellowish skin",Anemia
+"pale or yellowish skin, cold hands and feet, shortness of breath",Anemia
+"dry skin, constipation, depression, fatigue, weight gain, elevated blood cholesterol, muscle aches, thinning hair",Hypothyroidism
+"headache, weakness, loss of appetite",Viral Fever
+"pain behind eyes, nausea, vomiting",Dengue
+"mild headache, slight body aches, runny or stuffy nose, cough, congestion, sneezing, low-grade fever",Common Cold
+"sweating, weakness, rash, dry cough, muscle ache",Typhoid
+"heavy or irregular menstrual periods, impaired memory, constipation, fatigue",Hypothyroidism
+"mild headache, sneezing, cough",Common Cold
+"congestion, runny or stuffy nose",Common Cold
+"vomiting, skin rash, severe joint and muscle pain",Dengue
+"shortness of breath, weakness, headache",Anemia
+"rash, diarrhea or constipation, sweating, fatigue, dry cough, weakness, headache, prolonged fever, weight loss, loss of appetite",Typhoid
+weakness,Anemia
+"fatigue, weakness, shortness of breath",Anemia
+"body ache, headache, fatigue, measured high fever, chills",Viral Fever
+"dry skin, pain, stiffness or swelling in your joints, thinning hair, increased sensitivity to cold, impaired memory, weight gain, heavy or irregular menstrual periods, slowed heart rate, constipation, depression, hoarseness",Hypothyroidism
+"nausea, pain behind eyes, fatigue, mild bleeding, severe headache, vomiting",Dengue
+"pain behind eyes, severe joint and muscle pain, fatigue, vomiting, sudden high fever, mild bleeding, severe headache",Dengue
+"fatigue, severe joint and muscle pain, skin rash, pain behind eyes, severe headache, sudden high fever, vomiting, mild bleeding, nausea",Dengue
+"fatigue, weakness, irregular heartbeats, shortness of breath, dizziness or lightheadedness",Anemia
+"pain behind eyes, mild bleeding",Dengue
+"fatigue, weakness, chills",Viral Fever
+"sweating, fever with shaking chills, muscle pain, vomiting",Malaria
+"measured high fever, chills, weakness, body ache, loss of appetite",Viral Fever
+dry skin,Hypothyroidism
+"muscle aches, constipation, fatigue, pain, stiffness or swelling in your joints, impaired memory, dry skin, hoarseness, slowed heart rate, increased sensitivity to cold, heavy or irregular menstrual periods, thinning hair, muscle weakness, elevated blood cholesterol, weight gain, tenderness and stiffness, depression, puffy face",Hypothyroidism
+blurred vision,Diabetes Type 2
+"cough, congestion, slight body aches, sore throat, malaise, mild headache, runny or stuffy nose, low-grade fever, sneezing",Common Cold
+"fatigue, sudden high fever, nausea, vomiting, severe joint and muscle pain, skin rash, mild bleeding, pain behind eyes",Dengue
+"fatigue, muscle ache, diarrhea or constipation, sweating, prolonged fever, rash, headache, loss of appetite, weakness",Typhoid
+"slow-healing sores, unintended weight loss, numbness or tingling in the hands or feet, frequent urination, fatigue, areas of darkened skin",Diabetes Type 2
+"slow-healing sores, frequent infections, areas of darkened skin, unintended weight loss, numbness or tingling in the hands or feet, blurred vision, increased hunger, increased thirst",Diabetes Type 2
+"abdominal pain, muscle ache",Typhoid
+"slowed heart rate, thinning hair, weight gain, heavy or irregular menstrual periods, constipation, depression, muscle weakness",Hypothyroidism
+"shortness of breath, cold hands and feet, headache, pale or yellowish skin, fatigue, dizziness or lightheadedness, chest pain, irregular heartbeats, weakness",Anemia
+"nausea, abdominal pain, diarrhea, muscle pain",Malaria
+"runny or stuffy nose, sore throat, congestion, sneezing, low-grade fever, slight body aches, cough, malaise, mild headache",Common Cold
+"diarrhea, anemia, fever with shaking chills, headache, sweating, nausea, muscle pain, vomiting",Malaria
+"congestion, low-grade fever",Common Cold
+"sudden high fever, severe joint and muscle pain, skin rash",Dengue
+"weakness, prolonged fever, headache, weight loss, diarrhea or constipation, muscle ache, abdominal pain, dry cough, loss of appetite",Typhoid
+"prolonged fever, dry cough, muscle ache, headache, diarrhea or constipation, loss of appetite, weight loss, fatigue, rash, weakness, sweating",Typhoid
+"weakness, chills, measured high fever, fatigue",Viral Fever
+"elevated blood cholesterol, constipation, fatigue, tenderness and stiffness, muscle aches, heavy or irregular menstrual periods, dry skin, slowed heart rate, impaired memory, thinning hair",Hypothyroidism
+"irregular heartbeats, chest pain, headache",Anemia
+"headache, anemia",Malaria
+"low-grade fever, mild headache, runny or stuffy nose, cough, sore throat, congestion",Common Cold
+"fatigue, severe headache, skin rash, sudden high fever, mild bleeding, severe joint and muscle pain",Dengue
+headache,Malaria
+"chills, headache, fatigue, loss of appetite, body ache, weakness",Viral Fever
+"thinning hair, muscle aches, heavy or irregular menstrual periods, puffy face, fatigue, pain, stiffness or swelling in your joints",Hypothyroidism
+nausea,Dengue
+"congestion, sneezing, malaise, low-grade fever",Common Cold
+"blurred vision, areas of darkened skin",Diabetes Type 2
+"prolonged fever, rash, weakness, fatigue, sweating, abdominal pain, muscle ache, weight loss, headache, loss of appetite, diarrhea or constipation, dry cough",Typhoid
+"chest pain, headache, fatigue",Anemia
+"fatigue, frequent urination",Diabetes Type 2
+"hoarseness, elevated blood cholesterol, impaired memory, increased sensitivity to cold, constipation, weight gain, tenderness and stiffness, puffy face, thinning hair, muscle aches, slowed heart rate, fatigue, depression, muscle weakness, dry skin, pain, stiffness or swelling in your joints",Hypothyroidism
+"malaise, mild headache, sore throat, low-grade fever, congestion, slight body aches, runny or stuffy nose, sneezing",Common Cold
+"numbness or tingling in the hands or feet, increased thirst, areas of darkened skin, frequent urination, fatigue",Diabetes Type 2
+"muscle aches, thinning hair, elevated blood cholesterol, slowed heart rate, weight gain, pain, stiffness or swelling in your joints, puffy face, hoarseness, tenderness and stiffness, constipation, heavy or irregular menstrual periods",Hypothyroidism
+"dry cough, sweating, prolonged fever",Typhoid
+"abdominal pain, headache, sweating",Malaria
+"chills, loss of appetite, headache, weakness",Viral Fever
+"weakness, fatigue, dry cough",Typhoid
+"low-grade fever, cough, runny or stuffy nose, sneezing, malaise, mild headache, congestion",Common Cold
+"weakness, fatigue, pale or yellowish skin, shortness of breath, headache, cold hands and feet, irregular heartbeats, chest pain",Anemia
+"prolonged fever, weight loss, rash, headache, diarrhea or constipation, weakness",Typhoid
+"hoarseness, elevated blood cholesterol, heavy or irregular menstrual periods, muscle weakness, puffy face, thinning hair, slowed heart rate, muscle aches, tenderness and stiffness, impaired memory, constipation, increased sensitivity to cold, pain, stiffness or swelling in your joints, dry skin",Hypothyroidism
+"increased sensitivity to cold, depression, slowed heart rate, weight gain, hoarseness, pain, stiffness or swelling in your joints, puffy face, muscle weakness, constipation, heavy or irregular menstrual periods, thinning hair, elevated blood cholesterol, dry skin",Hypothyroidism
+"slow-healing sores, numbness or tingling in the hands or feet, frequent urination, areas of darkened skin, unintended weight loss, fatigue, frequent infections, increased hunger, blurred vision",Diabetes Type 2
+"skin rash, fatigue, severe headache, nausea, severe joint and muscle pain, pain behind eyes, sudden high fever",Dengue
+"pale or yellowish skin, weakness, cold hands and feet, headache, shortness of breath, dizziness or lightheadedness, irregular heartbeats, fatigue, chest pain",Anemia
+sneezing,Common Cold
+"pain, stiffness or swelling in your joints, increased sensitivity to cold, muscle aches, impaired memory, slowed heart rate, weight gain, elevated blood cholesterol, puffy face, constipation, fatigue, muscle weakness, hoarseness, depression, thinning hair, dry skin, tenderness and stiffness, heavy or irregular menstrual periods",Hypothyroidism
+"headache, body ache",Viral Fever
+slow-healing sores,Diabetes Type 2
+"hoarseness, heavy or irregular menstrual periods, tenderness and stiffness",Hypothyroidism
+"headache, vomiting, anemia, nausea, muscle pain, abdominal pain, diarrhea, fever with shaking chills",Malaria
+"fever with shaking chills, anemia, sweating, headache, muscle pain, diarrhea",Malaria
+"loss of appetite, sweating, weight loss, headache, muscle ache, diarrhea or constipation, fatigue, weakness, prolonged fever",Typhoid
+congestion,Common Cold
+"increased hunger, unintended weight loss, slow-healing sores",Diabetes Type 2
+"weight loss, weakness, muscle ache",Typhoid
+"chest pain, dizziness or lightheadedness",Anemia
+"nausea, diarrhea, vomiting, headache, abdominal pain, sweating, fever with shaking chills",Malaria
+"fever with shaking chills, headache",Malaria
+"sweating, nausea, fever with shaking chills, headache, anemia, muscle pain, vomiting, abdominal pain, diarrhea",Malaria
+"unintended weight loss, frequent infections, fatigue, areas of darkened skin",Diabetes Type 2
+"weight loss, fatigue, rash, dry cough, headache, loss of appetite, sweating",Typhoid
+"abdominal pain, muscle pain, vomiting, sweating, anemia, nausea, fever with shaking chills, diarrhea",Malaria
+"cough, slight body aches, sneezing, mild headache, malaise, sore throat, congestion",Common Cold
+"unintended weight loss, frequent urination, frequent infections, increased thirst, blurred vision, increased hunger",Diabetes Type 2
+"headache, loss of appetite, fatigue, measured high fever, chills, body ache, weakness",Viral Fever
+"increased thirst, fatigue",Diabetes Type 2
+"unintended weight loss, increased thirst, areas of darkened skin, slow-healing sores, numbness or tingling in the hands or feet",Diabetes Type 2
+"prolonged fever, rash, weight loss, dry cough, muscle ache, sweating, weakness, headache",Typhoid
+"sweating, dry cough, fatigue, rash, loss of appetite, headache, weakness, diarrhea or constipation, abdominal pain",Typhoid
+"blurred vision, numbness or tingling in the hands or feet, fatigue, unintended weight loss, slow-healing sores, increased hunger",Diabetes Type 2
+"body ache, weakness, fatigue, chills, headache, measured high fever",Viral Fever
+"pale or yellowish skin, cold hands and feet, chest pain, weakness, irregular heartbeats, shortness of breath, fatigue, headache",Anemia
+"numbness or tingling in the hands or feet, frequent urination, slow-healing sores, fatigue, areas of darkened skin, unintended weight loss, increased hunger, frequent infections, increased thirst",Diabetes Type 2
+"slow-healing sores, frequent urination, fatigue, increased hunger, areas of darkened skin",Diabetes Type 2
+"muscle weakness, heavy or irregular menstrual periods, impaired memory, muscle aches, weight gain, pain, stiffness or swelling in your joints, fatigue, puffy face, hoarseness, dry skin, thinning hair, tenderness and stiffness, elevated blood cholesterol, increased sensitivity to cold",Hypothyroidism
+"cold hands and feet, headache, dizziness or lightheadedness, shortness of breath, fatigue",Anemia
+"headache, fatigue, chills, weakness, measured high fever",Viral Fever
+"weakness, pale or yellowish skin, dizziness or lightheadedness, fatigue, chest pain, cold hands and feet, shortness of breath, headache, irregular heartbeats",Anemia
+"increased hunger, increased thirst, unintended weight loss, areas of darkened skin, numbness or tingling in the hands or feet, frequent urination, fatigue",Diabetes Type 2
+"numbness or tingling in the hands or feet, frequent infections, increased thirst, slow-healing sores, frequent urination, unintended weight loss, areas of darkened skin, fatigue",Diabetes Type 2
+"sneezing, cough, low-grade fever",Common Cold
+fatigue,Viral Fever
+"fatigue, slowed heart rate, pain, stiffness or swelling in your joints, muscle aches, tenderness and stiffness, weight gain, muscle weakness, heavy or irregular menstrual periods",Hypothyroidism
+"chest pain, pale or yellowish skin",Anemia
+"abdominal pain, diarrhea, muscle pain, sweating, nausea, fever with shaking chills",Malaria
+measured high fever,Viral Fever
+"sore throat, cough, sneezing, slight body aches, low-grade fever, mild headache, congestion",Common Cold
+"cough, sore throat, low-grade fever, congestion, sneezing, runny or stuffy nose",Common Cold
+"congestion, runny or stuffy nose, cough, low-grade fever, slight body aches",Common Cold
+"dizziness or lightheadedness, fatigue, weakness",Anemia
+"slowed heart rate, hoarseness, impaired memory, thinning hair, increased sensitivity to cold, puffy face, constipation, tenderness and stiffness, depression, dry skin, heavy or irregular menstrual periods, elevated blood cholesterol, muscle weakness, muscle aches, fatigue, pain, stiffness or swelling in your joints, weight gain",Hypothyroidism
+"fever with shaking chills, nausea, abdominal pain, sweating, headache, vomiting, muscle pain, diarrhea",Malaria
+"diarrhea or constipation, fatigue, sweating, headache, dry cough, rash, prolonged fever",Typhoid
+"body ache, loss of appetite, fatigue, headache, weakness, chills",Viral Fever
+"weakness, dizziness or lightheadedness, irregular heartbeats, cold hands and feet, fatigue, pale or yellowish skin, headache",Anemia
+"dry skin, constipation, fatigue, depression",Hypothyroidism
+"anemia, abdominal pain, nausea, fever with shaking chills",Malaria
+"sweating, dry cough, muscle ache, abdominal pain",Typhoid
+"sore throat, malaise, low-grade fever, mild headache",Common Cold
+"fatigue, loss of appetite, measured high fever",Viral Fever
+"fatigue, dizziness or lightheadedness",Anemia
+"numbness or tingling in the hands or feet, unintended weight loss, blurred vision, increased hunger, slow-healing sores, frequent urination, frequent infections, areas of darkened skin",Diabetes Type 2
+"constipation, impaired memory, elevated blood cholesterol",Hypothyroidism
+"sneezing, malaise, congestion, mild headache, runny or stuffy nose, sore throat",Common Cold
+"low-grade fever, congestion, sneezing",Common Cold
+"impaired memory, tenderness and stiffness, weight gain, constipation, muscle aches, muscle weakness, fatigue",Hypothyroidism
+measured high fever,Viral Fever
+"mild bleeding, vomiting, severe joint and muscle pain",Dengue
+"fatigue, body ache, loss of appetite, measured high fever",Viral Fever
+"irregular heartbeats, dizziness or lightheadedness",Anemia
+shortness of breath,Anemia
+"headache, measured high fever, weakness, fatigue",Viral Fever
+"weakness, prolonged fever, fatigue, diarrhea or constipation, rash, abdominal pain, loss of appetite, headache, muscle ache, sweating",Typhoid
+"loss of appetite, sweating, headache, abdominal pain, rash, dry cough, diarrhea or constipation, prolonged fever, muscle ache",Typhoid
+"fever with shaking chills, abdominal pain, sweating, muscle pain, nausea, anemia, vomiting",Malaria
+"weakness, muscle ache, abdominal pain, loss of appetite, diarrhea or constipation, dry cough, fatigue, prolonged fever, weight loss, headache, sweating, rash",Typhoid
+"areas of darkened skin, increased thirst, fatigue, slow-healing sores, blurred vision, frequent infections, numbness or tingling in the hands or feet",Diabetes Type 2
+"severe headache, pain behind eyes, mild bleeding, severe joint and muscle pain, nausea, fatigue, vomiting",Dengue
+"nausea, fever with shaking chills, muscle pain, diarrhea, abdominal pain, sweating, vomiting",Malaria
+"unintended weight loss, frequent urination, fatigue, numbness or tingling in the hands or feet, increased hunger, blurred vision, frequent infections, slow-healing sores, increased thirst",Diabetes Type 2
+"headache, body ache, measured high fever",Viral Fever
+"frequent infections, frequent urination, blurred vision, unintended weight loss, numbness or tingling in the hands or feet, fatigue",Diabetes Type 2
+"skin rash, nausea, severe headache, mild bleeding, pain behind eyes",Dengue
+"diarrhea, anemia, sweating, fever with shaking chills, vomiting, headache",Malaria
+"slight body aches, congestion, sneezing, malaise, low-grade fever, cough, sore throat, mild headache",Common Cold
+"mild bleeding, severe joint and muscle pain, nausea",Dengue
+"weakness, irregular heartbeats, shortness of breath",Anemia
+"sudden high fever, nausea, pain behind eyes",Dengue
+"irregular heartbeats, dizziness or lightheadedness, pale or yellowish skin, fatigue",Anemia
+prolonged fever,Typhoid
+"blurred vision, areas of darkened skin, increased hunger, frequent urination, slow-healing sores, numbness or tingling in the hands or feet, unintended weight loss, frequent infections, increased thirst",Diabetes Type 2
+"numbness or tingling in the hands or feet, slow-healing sores, fatigue, frequent urination",Diabetes Type 2
+"severe headache, skin rash, vomiting, fatigue, mild bleeding, pain behind eyes, sudden high fever, severe joint and muscle pain",Dengue
+"constipation, dry skin, heavy or irregular menstrual periods, thinning hair, hoarseness, tenderness and stiffness, muscle weakness, fatigue, muscle aches, weight gain, elevated blood cholesterol, pain, stiffness or swelling in your joints, depression, slowed heart rate",Hypothyroidism
+"numbness or tingling in the hands or feet, fatigue, unintended weight loss",Diabetes Type 2
+"pain behind eyes, sudden high fever, severe joint and muscle pain, fatigue, skin rash, mild bleeding, severe headache, nausea, vomiting",Dengue
+"fatigue, areas of darkened skin, numbness or tingling in the hands or feet, blurred vision, increased hunger, frequent infections",Diabetes Type 2
+"low-grade fever, runny or stuffy nose, congestion, cough, mild headache, malaise",Common Cold
+"runny or stuffy nose, cough, sneezing, malaise, low-grade fever, mild headache, sore throat, congestion",Common Cold
+"loss of appetite, measured high fever, weakness, headache, chills",Viral Fever
+"weakness, body ache, loss of appetite, fatigue, chills",Viral Fever
+frequent urination,Diabetes Type 2
+"pale or yellowish skin, shortness of breath, chest pain, fatigue, headache, weakness",Anemia
+"headache, anemia, abdominal pain, nausea, fever with shaking chills, vomiting, diarrhea",Malaria
+"nausea, skin rash, vomiting, severe headache, severe joint and muscle pain, mild bleeding, pain behind eyes",Dengue
+"headache, chills, fatigue, body ache, measured high fever",Viral Fever
+"runny or stuffy nose, mild headache, slight body aches, low-grade fever, sore throat",Common Cold
+"hoarseness, slowed heart rate, increased sensitivity to cold",Hypothyroidism
+"fatigue, dizziness or lightheadedness",Anemia
+"headache, vomiting, abdominal pain, fever with shaking chills, sweating, diarrhea, nausea",Malaria
+"loss of appetite, fatigue",Viral Fever
+"sweating, vomiting, muscle pain, anemia, abdominal pain, diarrhea, nausea, fever with shaking chills, headache",Malaria
+"slight body aches, low-grade fever, cough, congestion, mild headache, runny or stuffy nose, malaise",Common Cold
+"mild headache, low-grade fever, runny or stuffy nose, sore throat, congestion, sneezing, slight body aches, malaise",Common Cold
+"blurred vision, slow-healing sores, fatigue, areas of darkened skin, unintended weight loss, frequent urination, numbness or tingling in the hands or feet, frequent infections",Diabetes Type 2
+"headache, body ache, weakness, loss of appetite",Viral Fever
+"slight body aches, sore throat, congestion, sneezing, low-grade fever, malaise, runny or stuffy nose, cough, mild headache",Common Cold
+"body ache, loss of appetite, fatigue, chills",Viral Fever
+dry cough,Typhoid
+"unintended weight loss, blurred vision, slow-healing sores, frequent urination, numbness or tingling in the hands or feet, increased thirst, areas of darkened skin, increased hunger, frequent infections",Diabetes Type 2
+"fatigue, thinning hair, elevated blood cholesterol, heavy or irregular menstrual periods, dry skin, hoarseness, muscle aches, depression, puffy face, constipation, muscle weakness, tenderness and stiffness, impaired memory, increased sensitivity to cold, slowed heart rate, weight gain, pain, stiffness or swelling in your joints",Hypothyroidism
+"diarrhea or constipation, loss of appetite, weight loss, abdominal pain, rash, dry cough",Typhoid
+"slowed heart rate, weight gain, elevated blood cholesterol, tenderness and stiffness, muscle aches, impaired memory, muscle weakness",Hypothyroidism
+blurred vision,Diabetes Type 2
+"anemia, diarrhea, abdominal pain, vomiting, fever with shaking chills, headache, sweating",Malaria
+"sneezing, runny or stuffy nose, malaise, cough, sore throat, slight body aches, mild headache, low-grade fever, congestion",Common Cold
+"congestion, malaise, runny or stuffy nose, sore throat, cough, low-grade fever, mild headache, slight body aches",Common Cold
+"chest pain, weakness, irregular heartbeats, cold hands and feet, fatigue, dizziness or lightheadedness",Anemia
+mild headache,Common Cold
+"fatigue, chills, measured high fever, headache",Viral Fever
+"muscle pain, vomiting, nausea, fever with shaking chills",Malaria
+"rash, weight loss, loss of appetite, muscle ache, prolonged fever, dry cough",Typhoid
+rash,Typhoid
+"muscle aches, tenderness and stiffness, thinning hair, slowed heart rate, fatigue, puffy face, constipation, pain, stiffness or swelling in your joints, depression, muscle weakness, dry skin, hoarseness, elevated blood cholesterol, increased sensitivity to cold",Hypothyroidism
+"headache, weakness, muscle ache, rash, dry cough, fatigue",Typhoid
+"dry cough, muscle ache, abdominal pain, loss of appetite, diarrhea or constipation, headache, fatigue, prolonged fever, sweating, weight loss, rash",Typhoid
+"diarrhea, abdominal pain, vomiting",Malaria
+frequent infections,Diabetes Type 2
+slowed heart rate,Hypothyroidism
+"weakness, fatigue, weight loss, prolonged fever, abdominal pain, sweating",Typhoid
+"chills, body ache, weakness",Viral Fever
+"slow-healing sores, fatigue, areas of darkened skin, increased thirst, blurred vision, frequent infections, increased hunger, frequent urination, unintended weight loss",Diabetes Type 2
+"fatigue, headache, measured high fever, body ache, weakness, loss of appetite, chills",Viral Fever
+"muscle weakness, depression, tenderness and stiffness, constipation, muscle aches",Hypothyroidism
+"thinning hair, pain, stiffness or swelling in your joints, muscle weakness, weight gain, elevated blood cholesterol, fatigue, tenderness and stiffness, hoarseness, impaired memory, depression, constipation",Hypothyroidism
+"unintended weight loss, frequent urination, increased thirst, blurred vision, slow-healing sores, areas of darkened skin, frequent infections, numbness or tingling in the hands or feet, increased hunger",Diabetes Type 2
+"body ache, weakness, loss of appetite, headache, measured high fever, fatigue, chills",Viral Fever
+"weakness, dizziness or lightheadedness",Anemia
+"diarrhea, sweating, vomiting, headache",Malaria
+"fatigue, numbness or tingling in the hands or feet, unintended weight loss",Diabetes Type 2
+"pain, stiffness or swelling in your joints, heavy or irregular menstrual periods, elevated blood cholesterol, constipation, increased sensitivity to cold",Hypothyroidism
+"runny or stuffy nose, slight body aches, mild headache, malaise, cough, sore throat, congestion, low-grade fever",Common Cold
+"mild bleeding, severe joint and muscle pain, nausea, pain behind eyes, sudden high fever",Dengue
+"cough, runny or stuffy nose, malaise, sneezing, sore throat, low-grade fever",Common Cold
+"fever with shaking chills, vomiting, anemia, diarrhea, abdominal pain",Malaria
+"loss of appetite, weight loss, headache, diarrhea or constipation, fatigue, prolonged fever, rash, sweating",Typhoid
+"hoarseness, constipation, impaired memory, weight gain, heavy or irregular menstrual periods, elevated blood cholesterol, depression, tenderness and stiffness, pain, stiffness or swelling in your joints, slowed heart rate",Hypothyroidism
+"fatigue, prolonged fever, diarrhea or constipation, weight loss, sweating, headache",Typhoid
+"headache, dizziness or lightheadedness, cold hands and feet, pale or yellowish skin, weakness, shortness of breath, fatigue",Anemia
+"weight gain, heavy or irregular menstrual periods, slowed heart rate, constipation, impaired memory, muscle aches, pain, stiffness or swelling in your joints, elevated blood cholesterol, hoarseness, fatigue, increased sensitivity to cold, muscle weakness, dry skin",Hypothyroidism
+"headache, loss of appetite, rash, muscle ache, prolonged fever, diarrhea or constipation, fatigue, weight loss, dry cough, abdominal pain, weakness, sweating",Typhoid
+"puffy face, thinning hair, slowed heart rate, impaired memory, tenderness and stiffness, dry skin, increased sensitivity to cold, constipation, muscle weakness, muscle aches",Hypothyroidism
+"diarrhea or constipation, dry cough, fatigue, loss of appetite, sweating",Typhoid
+"mild bleeding, pain behind eyes, fatigue",Dengue
+"frequent infections, numbness or tingling in the hands or feet, increased thirst",Diabetes Type 2
+"cold hands and feet, irregular heartbeats, fatigue, weakness, dizziness or lightheadedness, shortness of breath, chest pain, headache, pale or yellowish skin",Anemia
+"thinning hair, tenderness and stiffness, dry skin",Hypothyroidism
+"nausea, severe headache, mild bleeding, pain behind eyes, fatigue, sudden high fever, severe joint and muscle pain, skin rash, vomiting",Dengue
+"runny or stuffy nose, mild headache, sneezing, congestion, low-grade fever, malaise, slight body aches",Common Cold
+"sudden high fever, mild bleeding, fatigue, pain behind eyes, skin rash, severe joint and muscle pain, severe headache, nausea, vomiting",Dengue
+"fatigue, pale or yellowish skin, chest pain",Anemia
+"fatigue, muscle aches, slowed heart rate, weight gain, constipation, heavy or irregular menstrual periods",Hypothyroidism
+"fatigue, dry cough, prolonged fever, muscle ache, weakness, weight loss, sweating, headache, rash, loss of appetite",Typhoid
+"malaise, sore throat, sneezing, cough, runny or stuffy nose, low-grade fever, mild headache, slight body aches",Common Cold
+"nausea, vomiting, fatigue, severe headache, pain behind eyes, sudden high fever",Dengue
+"fatigue, impaired memory, increased sensitivity to cold, muscle weakness, slowed heart rate, constipation",Hypothyroidism
+"constipation, impaired memory, muscle aches, elevated blood cholesterol, pain, stiffness or swelling in your joints, thinning hair, heavy or irregular menstrual periods, slowed heart rate, fatigue, weight gain",Hypothyroidism
+"prolonged fever, loss of appetite",Typhoid
+"anemia, fever with shaking chills, diarrhea, vomiting",Malaria
+"muscle ache, weight loss, rash, diarrhea or constipation, sweating, dry cough, abdominal pain, fatigue, weakness",Typhoid
+"dry cough, abdominal pain, diarrhea or constipation, weight loss, loss of appetite, muscle ache, rash, sweating, weakness, fatigue, prolonged fever, headache",Typhoid
+"dizziness or lightheadedness, irregular heartbeats, weakness, shortness of breath",Anemia
+"weight loss, rash, headache",Typhoid
+"abdominal pain, sweating, anemia, nausea, vomiting, diarrhea, headache, muscle pain",Malaria
+"dry cough, loss of appetite, diarrhea or constipation, muscle ache",Typhoid
+"vomiting, severe headache, severe joint and muscle pain, pain behind eyes, mild bleeding",Dengue
+"numbness or tingling in the hands or feet, slow-healing sores, increased hunger, frequent infections, areas of darkened skin",Diabetes Type 2
+"dizziness or lightheadedness, irregular heartbeats, headache",Anemia
+"fatigue, frequent infections, increased hunger, numbness or tingling in the hands or feet, increased thirst, slow-healing sores, blurred vision, frequent urination, areas of darkened skin, unintended weight loss",Diabetes Type 2
+"pale or yellowish skin, cold hands and feet, irregular heartbeats, headache, shortness of breath",Anemia
+"slow-healing sores, increased thirst, numbness or tingling in the hands or feet, areas of darkened skin, blurred vision, frequent urination, increased hunger, fatigue, frequent infections",Diabetes Type 2
+"sneezing, slight body aches, cough, mild headache, congestion, malaise",Common Cold
+measured high fever,Viral Fever
+headache,Viral Fever
+"body ache, loss of appetite, measured high fever, fatigue, chills, weakness",Viral Fever
+headache,Anemia
+"weakness, headache, diarrhea or constipation, prolonged fever, rash, sweating, loss of appetite, dry cough, fatigue, weight loss, muscle ache, abdominal pain",Typhoid
+"shortness of breath, cold hands and feet, weakness",Anemia
+measured high fever,Viral Fever
+areas of darkened skin,Diabetes Type 2
+"skin rash, mild bleeding, vomiting, nausea, fatigue",Dengue
+increased thirst,Diabetes Type 2
+muscle ache,Typhoid
+"pale or yellowish skin, shortness of breath, headache, weakness",Anemia
+"frequent urination, increased thirst, fatigue, frequent infections, blurred vision, slow-healing sores, areas of darkened skin",Diabetes Type 2
+"loss of appetite, fatigue, chills",Viral Fever
+"shortness of breath, chest pain, weakness, irregular heartbeats, cold hands and feet, dizziness or lightheadedness, pale or yellowish skin",Anemia
+"heavy or irregular menstrual periods, hoarseness, slowed heart rate, constipation, depression, dry skin, weight gain",Hypothyroidism
+"pale or yellowish skin, chest pain, headache, irregular heartbeats",Anemia
+"weakness, pale or yellowish skin, irregular heartbeats, cold hands and feet, shortness of breath, headache",Anemia
+"slowed heart rate, pain, stiffness or swelling in your joints, impaired memory, hoarseness, constipation, heavy or irregular menstrual periods",Hypothyroidism
+"pale or yellowish skin, chest pain, irregular heartbeats, cold hands and feet, headache",Anemia
+"increased sensitivity to cold, hoarseness, impaired memory, dry skin, constipation, muscle weakness, thinning hair",Hypothyroidism
+"sore throat, congestion, mild headache, slight body aches, cough, malaise",Common Cold
+"loss of appetite, weakness",Viral Fever
+"vomiting, sudden high fever",Dengue
+"sweating, nausea, vomiting, anemia, abdominal pain, fever with shaking chills, diarrhea, muscle pain",Malaria
+"severe joint and muscle pain, severe headache, skin rash, vomiting, nausea",Dengue
+"unintended weight loss, numbness or tingling in the hands or feet, fatigue, areas of darkened skin, blurred vision, frequent urination, frequent infections",Diabetes Type 2
+"weakness, irregular heartbeats, chest pain, pale or yellowish skin, dizziness or lightheadedness, headache",Anemia
+"vomiting, sudden high fever",Dengue
+"sore throat, mild headache, cough, slight body aches",Common Cold
+nausea,Dengue
+"muscle pain, sweating, nausea, fever with shaking chills, abdominal pain, anemia",Malaria
+"headache, dizziness or lightheadedness, chest pain, pale or yellowish skin, cold hands and feet",Anemia
+"sweating, anemia, muscle pain, vomiting, fever with shaking chills, diarrhea, abdominal pain",Malaria
+"vomiting, skin rash, mild bleeding, severe joint and muscle pain, nausea, pain behind eyes, fatigue",Dengue
+"fever with shaking chills, diarrhea, muscle pain, abdominal pain, nausea",Malaria
+"sore throat, congestion, runny or stuffy nose, low-grade fever, sneezing, mild headache, slight body aches",Common Cold
+"elevated blood cholesterol, puffy face, tenderness and stiffness, increased sensitivity to cold, hoarseness, muscle weakness, slowed heart rate, thinning hair, dry skin, constipation, muscle aches, impaired memory",Hypothyroidism
+"severe headache, nausea",Dengue
+"fatigue, body ache, headache, chills, loss of appetite",Viral Fever
+"nausea, headache, diarrhea, sweating, abdominal pain, vomiting, fever with shaking chills",Malaria
+"weight gain, pain, stiffness or swelling in your joints, elevated blood cholesterol, depression, tenderness and stiffness, slowed heart rate, impaired memory, increased sensitivity to cold, muscle aches, fatigue, heavy or irregular menstrual periods, puffy face",Hypothyroidism
+"skin rash, severe headache, nausea, sudden high fever, vomiting, pain behind eyes, mild bleeding, fatigue",Dengue
+"muscle pain, nausea, vomiting, diarrhea, anemia, headache",Malaria
+headache,Anemia
+"headache, loss of appetite, measured high fever, chills",Viral Fever
+"headache, abdominal pain, anemia, muscle pain, diarrhea, vomiting, nausea, sweating",Malaria
+"abdominal pain, weight loss, weakness, fatigue, diarrhea or constipation, headache, loss of appetite, sweating, rash, muscle ache",Typhoid
+"diarrhea, nausea, muscle pain, vomiting, headache",Malaria
+"severe joint and muscle pain, vomiting",Dengue
+"low-grade fever, sneezing, cough, mild headache, runny or stuffy nose, slight body aches",Common Cold
+"shortness of breath, fatigue, weakness, irregular heartbeats, pale or yellowish skin, cold hands and feet, dizziness or lightheadedness",Anemia
+"muscle pain, anemia",Malaria
+"low-grade fever, congestion, runny or stuffy nose, sneezing, mild headache, sore throat, cough, malaise, slight body aches",Common Cold
+headache,Anemia
+"weight loss, loss of appetite",Typhoid
+"blurred vision, numbness or tingling in the hands or feet, frequent infections, increased hunger, areas of darkened skin, fatigue, increased thirst, unintended weight loss, frequent urination",Diabetes Type 2
+"vomiting, muscle pain, anemia, diarrhea, sweating",Malaria
+"prolonged fever, rash, abdominal pain, diarrhea or constipation",Typhoid
+"dry skin, depression, thinning hair, fatigue, pain, stiffness or swelling in your joints, weight gain",Hypothyroidism
+"nausea, vomiting",Dengue
+"slow-healing sores, frequent urination, increased thirst",Diabetes Type 2
+"runny or stuffy nose, sneezing, low-grade fever, congestion, sore throat, cough, mild headache, malaise, slight body aches",Common Cold
+"skin rash, vomiting",Dengue
+"measured high fever, loss of appetite, body ache",Viral Fever
+"increased thirst, unintended weight loss, blurred vision, slow-healing sores, numbness or tingling in the hands or feet, fatigue, increased hunger, frequent urination, areas of darkened skin",Diabetes Type 2
+"mild headache, sneezing, low-grade fever",Common Cold
+"diarrhea or constipation, prolonged fever, dry cough, loss of appetite, weakness, sweating",Typhoid
+"diarrhea or constipation, prolonged fever, loss of appetite, weakness, sweating, rash, weight loss, headache, fatigue, muscle ache, dry cough, abdominal pain",Typhoid
+"nausea, severe headache",Dengue
+increased sensitivity to cold,Hypothyroidism
+unintended weight loss,Diabetes Type 2
+"numbness or tingling in the hands or feet, unintended weight loss, frequent infections, increased hunger, slow-healing sores, blurred vision, increased thirst",Diabetes Type 2
+"pale or yellowish skin, chest pain",Anemia
+"measured high fever, fatigue, loss of appetite, headache",Viral Fever
+"loss of appetite, measured high fever, chills, fatigue",Viral Fever
+"loss of appetite, body ache, chills, fatigue, headache",Viral Fever
+pale or yellowish skin,Anemia
+"sore throat, slight body aches, congestion, malaise, runny or stuffy nose",Common Cold
+"vomiting, mild bleeding, fatigue, sudden high fever, severe headache, nausea",Dengue
+"fatigue, depression, pain, stiffness or swelling in your joints, muscle aches, thinning hair, tenderness and stiffness, hoarseness, increased sensitivity to cold",Hypothyroidism
+"mild headache, runny or stuffy nose, sneezing, congestion, cough, slight body aches, sore throat",Common Cold
+"severe joint and muscle pain, severe headache, pain behind eyes, mild bleeding, sudden high fever, nausea",Dengue
+"abdominal pain, weight loss",Typhoid
+"slow-healing sores, fatigue, areas of darkened skin, increased hunger, unintended weight loss",Diabetes Type 2
+"low-grade fever, cough, malaise, sore throat, runny or stuffy nose",Common Cold
+"rash, weakness, prolonged fever, fatigue, dry cough, loss of appetite",Typhoid
+cold hands and feet,Anemia
+"fatigue, chills, body ache, headache, loss of appetite, measured high fever",Viral Fever
+"fatigue, chills, loss of appetite, measured high fever, body ache, weakness, headache",Viral Fever
+"fatigue, pain behind eyes, severe joint and muscle pain, severe headache, nausea, vomiting, mild bleeding",Dengue
+"low-grade fever, sneezing, slight body aches, congestion, malaise, cough, mild headache, runny or stuffy nose",Common Cold
+"muscle pain, headache, vomiting, fever with shaking chills, nausea, sweating",Malaria
+"headache, weakness",Anemia
+"muscle pain, anemia, abdominal pain, nausea, vomiting, diarrhea",Malaria
+"heavy or irregular menstrual periods, weight gain, increased sensitivity to cold, dry skin, slowed heart rate, puffy face, fatigue, tenderness and stiffness, muscle aches, pain, stiffness or swelling in your joints, elevated blood cholesterol, hoarseness, constipation",Hypothyroidism
+"dry skin, fatigue, muscle aches, muscle weakness, slowed heart rate, puffy face, thinning hair, weight gain, heavy or irregular menstrual periods, hoarseness, impaired memory, constipation",Hypothyroidism
+"frequent infections, areas of darkened skin, fatigue",Diabetes Type 2
+"increased hunger, frequent infections, increased thirst, unintended weight loss, fatigue, blurred vision, numbness or tingling in the hands or feet, frequent urination, slow-healing sores",Diabetes Type 2
+"headache, fatigue, loss of appetite, chills, body ache, weakness, measured high fever",Viral Fever
+"slow-healing sores, increased thirst",Diabetes Type 2
+"anemia, headache, nausea, diarrhea, abdominal pain, vomiting, sweating, fever with shaking chills",Malaria
+"anemia, nausea, diarrhea",Malaria
+"mild headache, sore throat, sneezing, malaise, cough",Common Cold
+"weakness, irregular heartbeats, chest pain, pale or yellowish skin, dizziness or lightheadedness, cold hands and feet, headache",Anemia
+"weight loss, dry cough",Typhoid
+"fatigue, skin rash, severe headache, vomiting, nausea, mild bleeding, pain behind eyes, severe joint and muscle pain",Dengue
+"weakness, chest pain",Anemia
+"tenderness and stiffness, constipation, elevated blood cholesterol, impaired memory, puffy face",Hypothyroidism
+"fatigue, frequent urination, unintended weight loss, blurred vision, frequent infections, increased thirst",Diabetes Type 2
+"nausea, headache, vomiting, fever with shaking chills, diarrhea",Malaria
+"low-grade fever, slight body aches, mild headache, congestion, malaise",Common Cold
+"frequent infections, increased thirst, blurred vision, fatigue, areas of darkened skin, frequent urination, numbness or tingling in the hands or feet, increased hunger, slow-healing sores, unintended weight loss",Diabetes Type 2
+"skin rash, fatigue, nausea",Dengue
+"cold hands and feet, dizziness or lightheadedness, fatigue, chest pain, headache, irregular heartbeats",Anemia
+"abdominal pain, headache, diarrhea, fever with shaking chills, nausea",Malaria
+"puffy face, tenderness and stiffness, fatigue, elevated blood cholesterol, muscle weakness, dry skin, constipation, muscle aches, pain, stiffness or swelling in your joints, weight gain, thinning hair, increased sensitivity to cold, heavy or irregular menstrual periods, depression, impaired memory, hoarseness, slowed heart rate",Hypothyroidism
+"pale or yellowish skin, headache, dizziness or lightheadedness, chest pain, cold hands and feet, weakness",Anemia
+"headache, measured high fever",Viral Fever
+"shortness of breath, cold hands and feet, dizziness or lightheadedness, headache, irregular heartbeats, weakness, pale or yellowish skin",Anemia
+"malaise, low-grade fever, cough, runny or stuffy nose, congestion, sore throat, sneezing",Common Cold
+"severe headache, nausea, pain behind eyes, mild bleeding, sudden high fever",Dengue
+"irregular heartbeats, pale or yellowish skin, weakness, headache, dizziness or lightheadedness, cold hands and feet, shortness of breath",Anemia
+"irregular heartbeats, chest pain, cold hands and feet, weakness, headache, shortness of breath",Anemia
+"frequent infections, areas of darkened skin, numbness or tingling in the hands or feet, frequent urination, blurred vision",Diabetes Type 2
+"increased sensitivity to cold, impaired memory, hoarseness, slowed heart rate, dry skin",Hypothyroidism
+"vomiting, nausea",Dengue
+"abdominal pain, headache, prolonged fever, weakness",Typhoid
+"weight gain, dry skin, muscle aches",Hypothyroidism
+"fatigue, areas of darkened skin, unintended weight loss, slow-healing sores, frequent urination, numbness or tingling in the hands or feet, increased thirst, frequent infections",Diabetes Type 2
+"cough, runny or stuffy nose",Common Cold
+skin rash,Dengue
+"unintended weight loss, slow-healing sores, fatigue, numbness or tingling in the hands or feet, increased thirst",Diabetes Type 2
+"mild headache, sneezing, congestion, cough, slight body aches, low-grade fever, sore throat, runny or stuffy nose",Common Cold
+"pain behind eyes, vomiting, fatigue, severe headache, nausea, mild bleeding, skin rash, sudden high fever",Dengue
+unintended weight loss,Diabetes Type 2
+"cough, low-grade fever, sore throat, congestion, slight body aches, sneezing, runny or stuffy nose",Common Cold
+"fatigue, headache, measured high fever, weakness, chills, loss of appetite",Viral Fever
+"elevated blood cholesterol, muscle aches, slowed heart rate, impaired memory, weight gain, hoarseness, fatigue, thinning hair, puffy face, heavy or irregular menstrual periods, increased sensitivity to cold, pain, stiffness or swelling in your joints",Hypothyroidism
+"sweating, abdominal pain, headache, muscle pain, diarrhea, vomiting, fever with shaking chills",Malaria
+"anemia, vomiting, diarrhea, abdominal pain, headache",Malaria
+sudden high fever,Dengue
+"measured high fever, weakness, headache, body ache",Viral Fever
+"sneezing, slight body aches, mild headache, runny or stuffy nose, sore throat, congestion, low-grade fever, malaise, cough",Common Cold
+"muscle pain, fever with shaking chills, anemia, vomiting",Malaria
+"headache, vomiting, diarrhea, anemia, abdominal pain, nausea, fever with shaking chills, sweating, muscle pain",Malaria
+"vomiting, diarrhea",Malaria

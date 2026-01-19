@@ -171,6 +171,15 @@ export default function Home() {
               ← New Assessment
             </Button>
 
+            {/* Predicted Disease Alert */}
+            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+              <h2 className="text-lg font-semibold text-blue-900 mb-1">AI Prediction</h2>
+              <p className="text-xl text-blue-700 font-medium">
+                Based on symptoms, the patient likely has: <span className="font-bold">{result.predicted_diseases.join(", ")}</span>
+              </p>
+              <p className="text-sm text-blue-600 mt-1">Confidence Score: {(result.confidence_score * 100).toFixed(0)}%</p>
+            </div>
+
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {/* Essential Tests Metric */}
               <Card className="bg-white shadow-md border-l-4 border-l-blue-500">
